@@ -10,6 +10,8 @@ appendices are produced by the scripts in `scripts/` from the source data in
 the StimuliGenerator app's persistent logs. The outputs are written
 deterministically into `results/`.
 
+> **Companion repository:** the source code of the stimulus generation system itself is published separately at [MdNoman1538/StimuliGenerator](https://github.com/MdNoman1538/StimuliGenerator). This evaluation bundle was produced from logs emitted by that system.
+
 ## Directory layout
 
 ```
