@@ -1,0 +1,10 @@
+s1: A monochromatic 3D render shows a mechanical tool chipping fragments from a rounded object held above another rounded object on a plate.
+s10: A mechanical tool is centered within a radial arrangement of its component parts, including brackets, bolts, and washers, on a white background.
+s2: A gray, textured arm-like object props up a circular lid with a seal over a white cylindrical base.
+s3: A collection of smooth, light gray, interlocking geometric forms is arranged in a structural configuration against a white background.
+s4: A monochromatic 3D rendering shows a mechanical assembly with a threaded shaft and circular rollers against a white background.
+s5: A collection of grey geometric shapes is stacked together against a white background.
+s6: A close-up view shows a grey mechanical assembly with two padded bases and a central gear-like joint.
+s7: A white, faceted, bow-tie-shaped object with one split end floats above a cylindrical base against a plain white background.
+s8: A close-up 3D rendering shows several gray mechanical components, including a central ribbed wheel, aligned for assembly.
+s9: A white mechanical component is centered within a symmetrical arrangement of grey geometric shapes on a white background.

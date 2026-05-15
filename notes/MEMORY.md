@@ -1,0 +1,11 @@
+- [User profile](user_profile.md) — Md Abdullah Al Noman, Master's student, supervisor Georgi Georgiev
+- [Thesis project](project_thesis.md) — Master's thesis on LLM-based semantic stimuli generation for design creativity
+- [Prior session reference](reference_prior_session.md) — pointer to the May 8 session that set up the thesis scaffold
+- [Session state 2026-05-08](project_session_state_2026-05-08.md) — paused at usage-limit; 10/11 bib entries resolved, MacTeX install failed, chapters not yet drafted
+- [Why Gemini was chosen](project_model_selection.md) — final selection was expert qualitative evaluation by Georgiev, Mengru, and Politecnico di Milano professor
+- [Methodology origin](project_methodology_origin.md) — NC/MC/VC + 5-sentence locked structure was co-designed with Mengru; Pahl-Beitz/FBS/Norman/Ulrich-Eppinger grounding
+- [Project collaborators](project_collaborators.md) — Mengru Wang, Georgi Georgiev, Politecnico di Milano professor; needed for foreword and contribution attribution
+- [Project timeline origin](project_timeline_origin.md) — Mar 20–Apr 4: predecessor tool, semantic analyzer, structure evolved paragraph→9-sentence→5-sentence FBS
+- [Challenges and resolutions log](project_challenges_log.md) — Apr 9–May 9: 11 phases of problems encountered and how each was resolved; feeds directly into "Implementation Notes and Challenges" section
+- [Evaluation findings](project_evaluation_findings.md) — May 9 evaluation of 661 prior stimuli: Brysbaert ordering 99.4%, WordNet 56.9%, Rule 8 parity 43.6%
+- [Analysis results Tier 1+2+3](project_analysis_results.md) — May 9 backup: full empirical pipeline outputs at /Users/noman/Documents/Thesis/evaluation/, with headline numbers and resume points

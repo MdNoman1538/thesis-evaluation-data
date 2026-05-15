@@ -1,0 +1,847 @@
+{
+  "B1": {
+    "cutoff": "2026-05-08T00:00:00",
+    "pre_rule8": {
+      "n": 624,
+      "n_with_spread": 624,
+      "rule8_pass": 253,
+      "rule8_pct": 40.544871794871796,
+      "spread_mean": 7.948717948717949,
+      "spread_median": 3.0,
+      "spread_max": 99,
+      "brysbaert_pass": 621,
+      "brysbaert_pct": 99.51923076923077,
+      "wordnet_pass": 350,
+      "wordnet_pct": 56.08974358974359
+    },
+    "post_rule8": {
+      "n": 37,
+      "n_with_spread": 37,
+      "rule8_pass": 35,
+      "rule8_pct": 94.5945945945946,
+      "spread_mean": 0.7027027027027027,
+      "spread_median": 0,
+      "spread_max": 19,
+      "brysbaert_pass": 36,
+      "brysbaert_pct": 97.2972972972973,
+      "wordnet_pass": 26,
+      "wordnet_pct": 70.27027027027027
+    },
+    "undated": {
+      "n": 0,
+      "n_with_spread": 0,
+      "rule8_pass": 0,
+      "rule8_pct": null,
+      "spread_mean": null,
+      "spread_median": null,
+      "spread_max": null,
+      "brysbaert_pass": 0,
+      "brysbaert_pct": null,
+      "wordnet_pass": 0,
+      "wordnet_pct": null
+    }
+  },
+  "C1": [
+    {
+      "model": "gemini-3.1-pro-preview",
+      "n": 609,
+      "rule8_pct": 43.18555008210181,
+      "spread_mean": 7.758620689655173,
+      "brysbaert_pct": 99.67159277504105,
+      "wordnet_pct": 56.97865353037766,
+      "nc_to_vc_shift_mean": 0.9469097787616505
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "n": 25,
+      "rule8_pct": 4.0,
+      "spread_mean": 8.76,
+      "brysbaert_pct": 92.0,
+      "wordnet_pct": 60.0,
+      "nc_to_vc_shift_mean": 0.8495725494333836
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "n": 25,
+      "rule8_pct": 96.0,
+      "spread_mean": 0.48,
+      "brysbaert_pct": 100.0,
+      "wordnet_pct": 52.0,
+      "nc_to_vc_shift_mean": 0.8366645468508058
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "n": 2,
+      "rule8_pct": 0.0,
+      "spread_mean": 15.0,
+      "brysbaert_pct": 100.0,
+      "wordnet_pct": 50.0,
+      "nc_to_vc_shift_mean": 0.9793507261060452
+    }
+  ],
+  "A6": {
+    "n": 661,
+    "mean": 7.5431164901664145,
+    "median": 3,
+    "p90": 15.0,
+    "p95": 22.0,
+    "p99": 97.19999999999993,
+    "max": 99,
+    "spread_breakdown": [
+      {
+        "spread": 0,
+        "count": 126,
+        "cumulative_pct": 19.062027231467475
+      },
+      {
+        "spread": 1,
+        "count": 82,
+        "cumulative_pct": 31.46747352496218
+      },
+      {
+        "spread": 2,
+        "count": 80,
+        "cumulative_pct": 43.57034795763994
+      },
+      {
+        "spread": 3,
+        "count": 70,
+        "cumulative_pct": 54.16036308623298
+      },
+      {
+        "spread": 4,
+        "count": 35,
+        "cumulative_pct": 59.4553706505295
+      },
+      {
+        "spread": 5,
+        "count": 24,
+        "cumulative_pct": 63.086232980332824
+      },
+      {
+        "spread": 6,
+        "count": 46,
+        "cumulative_pct": 70.04538577912254
+      },
+      {
+        "spread": 7,
+        "count": 20,
+        "cumulative_pct": 73.07110438729198
+      },
+      {
+        "spread": 8,
+        "count": 14,
+        "cumulative_pct": 75.18910741301059
+      },
+      {
+        "spread": 9,
+        "count": 14,
+        "cumulative_pct": 77.3071104387292
+      },
+      {
+        "spread": 10,
+        "count": 16,
+        "cumulative_pct": 79.72768532526476
+      },
+      {
+        "spread": 11,
+        "count": 11,
+        "cumulative_pct": 81.39183055975793
+      },
+      {
+        "spread": 12,
+        "count": 21,
+        "cumulative_pct": 84.56883509833585
+      },
+      {
+        "spread": 13,
+        "count": 17,
+        "cumulative_pct": 87.14069591527988
+      },
+      {
+        "spread": 14,
+        "count": 17,
+        "cumulative_pct": 89.7125567322239
+      },
+      {
+        "spread": 15,
+        "count": 10,
+        "cumulative_pct": 91.22541603630863
+      },
+      {
+        "spread": 16,
+        "count": 2,
+        "cumulative_pct": 91.52798789712556
+      },
+      {
+        "spread": 17,
+        "count": 2,
+        "cumulative_pct": 91.83055975794251
+      },
+      {
+        "spread": 18,
+        "count": 2,
+        "cumulative_pct": 92.13313161875945
+      },
+      {
+        "spread": 19,
+        "count": 5,
+        "cumulative_pct": 92.8895612708018
+      },
+      {
+        "spread": 20,
+        "count": 9,
+        "cumulative_pct": 94.25113464447806
+      },
+      {
+        "spread": 21,
+        "count": 4,
+        "cumulative_pct": 94.85627836611195
+      },
+      {
+        "spread": 22,
+        "count": 1,
+        "cumulative_pct": 95.00756429652041
+      },
+      {
+        "spread": 24,
+        "count": 4,
+        "cumulative_pct": 95.61270801815431
+      },
+      {
+        "spread": 28,
+        "count": 4,
+        "cumulative_pct": 96.2178517397882
+      },
+      {
+        "spread": 32,
+        "count": 4,
+        "cumulative_pct": 96.8229954614221
+      },
+      {
+        "spread": 42,
+        "count": 7,
+        "cumulative_pct": 97.88199697428139
+      },
+      {
+        "spread": 96,
+        "count": 7,
+        "cumulative_pct": 98.9409984871407
+      },
+      {
+        "spread": 99,
+        "count": 7,
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "H4": {
+    "n_processed": 698,
+    "NC": [
+      [
+        "system",
+        970
+      ],
+      [
+        "user",
+        727
+      ],
+      [
+        "energy",
+        706
+      ],
+      [
+        "material",
+        671
+      ],
+      [
+        "manufacturing",
+        656
+      ],
+      [
+        "design",
+        656
+      ],
+      [
+        "force",
+        629
+      ],
+      [
+        "displacement",
+        484
+      ],
+      [
+        "interface",
+        479
+      ],
+      [
+        "processing",
+        436
+      ],
+      [
+        "volume",
+        425
+      ],
+      [
+        "state",
+        405
+      ],
+      [
+        "boundary",
+        386
+      ],
+      [
+        "equilibrium",
+        344
+      ],
+      [
+        "mass",
+        314
+      ],
+      [
+        "interaction",
+        312
+      ],
+      [
+        "solution",
+        310
+      ],
+      [
+        "yield",
+        303
+      ],
+      [
+        "property",
+        303
+      ],
+      [
+        "element",
+        298
+      ],
+      [
+        "transfer",
+        292
+      ],
+      [
+        "input",
+        279
+      ],
+      [
+        "resilience",
+        277
+      ],
+      [
+        "degradation",
+        270
+      ],
+      [
+        "payload",
+        260
+      ],
+      [
+        "kinetic",
+        259
+      ],
+      [
+        "load",
+        247
+      ],
+      [
+        "integrity",
+        246
+      ],
+      [
+        "resistance",
+        239
+      ],
+      [
+        "flow",
+        238
+      ],
+      [
+        "efficiency",
+        224
+      ],
+      [
+        "momentum",
+        216
+      ],
+      [
+        "zone",
+        214
+      ],
+      [
+        "stability",
+        206
+      ],
+      [
+        "platform",
+        204
+      ],
+      [
+        "vector",
+        203
+      ],
+      [
+        "damage",
+        199
+      ],
+      [
+        "configuration",
+        192
+      ],
+      [
+        "separation",
+        187
+      ],
+      [
+        "stress",
+        181
+      ],
+      [
+        "resource",
+        175
+      ],
+      [
+        "output",
+        172
+      ],
+      [
+        "control",
+        169
+      ],
+      [
+        "surface",
+        168
+      ],
+      [
+        "constraint",
+        167
+      ],
+      [
+        "exertion",
+        167
+      ],
+      [
+        "friction",
+        165
+      ],
+      [
+        "distribution",
+        164
+      ],
+      [
+        "transit",
+        162
+      ],
+      [
+        "mobility",
+        159
+      ]
+    ],
+    "MC": [
+      [
+        "user",
+        866
+      ],
+      [
+        "processing",
+        677
+      ],
+      [
+        "design",
+        667
+      ],
+      [
+        "manufacturing",
+        658
+      ],
+      [
+        "mechanism",
+        589
+      ],
+      [
+        "system",
+        567
+      ],
+      [
+        "layout",
+        488
+      ],
+      [
+        "assembly",
+        486
+      ],
+      [
+        "module",
+        458
+      ],
+      [
+        "surface",
+        384
+      ],
+      [
+        "control",
+        382
+      ],
+      [
+        "content",
+        342
+      ],
+      [
+        "linkage",
+        336
+      ],
+      [
+        "material",
+        333
+      ],
+      [
+        "framework",
+        318
+      ],
+      [
+        "extraction",
+        308
+      ],
+      [
+        "separation",
+        306
+      ],
+      [
+        "component",
+        304
+      ],
+      [
+        "volume",
+        293
+      ],
+      [
+        "drive",
+        272
+      ],
+      [
+        "damage",
+        259
+      ],
+      [
+        "platform",
+        247
+      ],
+      [
+        "fabrication",
+        244
+      ],
+      [
+        "chamber",
+        241
+      ],
+      [
+        "support",
+        231
+      ],
+      [
+        "mode",
+        228
+      ],
+      [
+        "durability",
+        211
+      ],
+      [
+        "device",
+        210
+      ],
+      [
+        "interface",
+        209
+      ],
+      [
+        "frame",
+        206
+      ],
+      [
+        "chassis",
+        201
+      ],
+      [
+        "casing",
+        193
+      ],
+      [
+        "terrain",
+        190
+      ],
+      [
+        "effort",
+        189
+      ],
+      [
+        "force",
+        188
+      ],
+      [
+        "friction",
+        181
+      ],
+      [
+        "flotation",
+        177
+      ],
+      [
+        "transit",
+        176
+      ],
+      [
+        "input",
+        176
+      ],
+      [
+        "travel",
+        174
+      ],
+      [
+        "unit",
+        166
+      ],
+      [
+        "steering",
+        161
+      ],
+      [
+        "motion",
+        157
+      ],
+      [
+        "yield",
+        154
+      ],
+      [
+        "propulsion",
+        153
+      ],
+      [
+        "traction",
+        153
+      ],
+      [
+        "batch",
+        143
+      ],
+      [
+        "alignment",
+        143
+      ],
+      [
+        "transport",
+        143
+      ],
+      [
+        "balance",
+        143
+      ]
+    ],
+    "VC": [
+      [
+        "user",
+        741
+      ],
+      [
+        "design",
+        649
+      ],
+      [
+        "hardware",
+        648
+      ],
+      [
+        "manufacturing",
+        641
+      ],
+      [
+        "seed",
+        570
+      ],
+      [
+        "steel",
+        538
+      ],
+      [
+        "hand",
+        426
+      ],
+      [
+        "system",
+        398
+      ],
+      [
+        "rubber",
+        378
+      ],
+      [
+        "part",
+        376
+      ],
+      [
+        "crank",
+        357
+      ],
+      [
+        "roller",
+        295
+      ],
+      [
+        "processing",
+        285
+      ],
+      [
+        "volume",
+        255
+      ],
+      [
+        "surface",
+        253
+      ],
+      [
+        "metal",
+        252
+      ],
+      [
+        "bolt",
+        245
+      ],
+      [
+        "mesh",
+        244
+      ],
+      [
+        "shelf",
+        243
+      ],
+      [
+        "rotation",
+        242
+      ],
+      [
+        "aluminum",
+        234
+      ],
+      [
+        "grip",
+        230
+      ],
+      [
+        "frame",
+        227
+      ],
+      [
+        "platform",
+        215
+      ],
+      [
+        "damage",
+        212
+      ],
+      [
+        "wire",
+        207
+      ],
+      [
+        "husk",
+        207
+      ],
+      [
+        "foam",
+        206
+      ],
+      [
+        "hopper",
+        205
+      ],
+      [
+        "motion",
+        205
+      ],
+      [
+        "plastic",
+        204
+      ],
+      [
+        "component",
+        200
+      ],
+      [
+        "speed",
+        199
+      ],
+      [
+        "arm",
+        191
+      ],
+      [
+        "tool",
+        188
+      ],
+      [
+        "machine",
+        181
+      ],
+      [
+        "leg",
+        181
+      ],
+      [
+        "casing",
+        176
+      ],
+      [
+        "resistance",
+        172
+      ],
+      [
+        "steering",
+        169
+      ],
+      [
+        "tubing",
+        165
+      ],
+      [
+        "spinning",
+        162
+      ],
+      [
+        "chain",
+        161
+      ],
+      [
+        "assembly",
+        158
+      ],
+      [
+        "gear",
+        152
+      ],
+      [
+        "pontoon",
+        149
+      ],
+      [
+        "pipe",
+        143
+      ],
+      [
+        "pod",
+        140
+      ],
+      [
+        "turning",
+        138
+      ],
+      [
+        "bracket",
+        137
+      ]
+    ]
+  }
+}

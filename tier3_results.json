@@ -1,0 +1,484 @@
+{
+  "C2": {
+    "n_files": 23,
+    "n_model_entries": 211,
+    "status_breakdown": [
+      {
+        "vendor": "CLAUDE",
+        "status": "error",
+        "count": 3
+      },
+      {
+        "vendor": "CLAUDE",
+        "status": "ok",
+        "count": 42
+      },
+      {
+        "vendor": "GEMINI",
+        "status": "error",
+        "count": 17
+      },
+      {
+        "vendor": "GEMINI",
+        "status": "ok",
+        "count": 31
+      },
+      {
+        "vendor": "GEMINI",
+        "status": "skip",
+        "count": 24
+      },
+      {
+        "vendor": "GROK",
+        "status": "skip",
+        "count": 28
+      },
+      {
+        "vendor": "OLLAMA",
+        "status": "ok",
+        "count": 20
+      },
+      {
+        "vendor": "OPENAI",
+        "status": "error",
+        "count": 18
+      },
+      {
+        "vendor": "OPENAI",
+        "status": "ok",
+        "count": 28
+      }
+    ],
+    "per_vendor": [
+      {
+        "vendor": "CLAUDE",
+        "n_attempts": 45,
+        "n_success": 42,
+        "n_scored": 42,
+        "success_rate": 93.33333333333333,
+        "brysbaert_mean": 3.240325443611782,
+        "wordnet_depth_mean": 5.991195667091748,
+        "word_count_mean": 163.23809523809524,
+        "sentence_count_mean": 6.0
+      },
+      {
+        "vendor": "GEMINI",
+        "n_attempts": 72,
+        "n_success": 31,
+        "n_scored": 31,
+        "success_rate": 43.05555555555556,
+        "brysbaert_mean": 3.2657800714508465,
+        "wordnet_depth_mean": 5.932123424078215,
+        "word_count_mean": 126.87096774193549,
+        "sentence_count_mean": 5.0
+      },
+      {
+        "vendor": "GROK",
+        "n_attempts": 28,
+        "n_success": 0,
+        "n_scored": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "OLLAMA",
+        "n_attempts": 20,
+        "n_success": 20,
+        "n_scored": 20,
+        "success_rate": 100.0,
+        "brysbaert_mean": 3.0691745466713005,
+        "wordnet_depth_mean": 5.874653180710229,
+        "word_count_mean": 169.05,
+        "sentence_count_mean": 8.75
+      },
+      {
+        "vendor": "OPENAI",
+        "n_attempts": 46,
+        "n_success": 28,
+        "n_scored": 28,
+        "success_rate": 60.86956521739131,
+        "brysbaert_mean": 3.2172222078411403,
+        "wordnet_depth_mean": 5.8887422437333345,
+        "word_count_mean": 182.17857142857142,
+        "sentence_count_mean": 7.392857142857143
+      }
+    ],
+    "per_model": [
+      {
+        "vendor": "CLAUDE",
+        "model": "claude-haiku-4-5-20251001",
+        "n_attempts": 15,
+        "n_success": 14,
+        "success_rate": 93.33333333333333,
+        "brysbaert_mean": 3.2189870193970345,
+        "wordnet_depth_mean": 5.965238572631094,
+        "word_count_mean": 157.92857142857142,
+        "sentence_count_mean": 6.0
+      },
+      {
+        "vendor": "CLAUDE",
+        "model": "claude-opus-4-6",
+        "n_attempts": 15,
+        "n_success": 14,
+        "success_rate": 93.33333333333333,
+        "brysbaert_mean": 3.2812484744491672,
+        "wordnet_depth_mean": 6.078297891115545,
+        "word_count_mean": 161.92857142857142,
+        "sentence_count_mean": 6.0
+      },
+      {
+        "vendor": "CLAUDE",
+        "model": "claude-sonnet-4-6",
+        "n_attempts": 15,
+        "n_success": 14,
+        "success_rate": 93.33333333333333,
+        "brysbaert_mean": 3.220740836989144,
+        "wordnet_depth_mean": 5.930050537528606,
+        "word_count_mean": 169.85714285714286,
+        "sentence_count_mean": 6.0
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-1.5-flash",
+        "n_attempts": 6,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-1.5-flash-8b",
+        "n_attempts": 6,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-1.5-pro",
+        "n_attempts": 6,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-2.0-flash",
+        "n_attempts": 6,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-2.0-flash-lite",
+        "n_attempts": 6,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-2.0-pro-exp",
+        "n_attempts": 6,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-2.5-pro",
+        "n_attempts": 17,
+        "n_success": 16,
+        "success_rate": 94.11764705882352,
+        "brysbaert_mean": 3.238162658304181,
+        "wordnet_depth_mean": 5.825296902954066,
+        "word_count_mean": 127.6875,
+        "sentence_count_mean": 5.0
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-3.1-pro",
+        "n_attempts": 3,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GEMINI",
+        "model": "gemini-3.1-pro-preview",
+        "n_attempts": 16,
+        "n_success": 15,
+        "success_rate": 93.75,
+        "brysbaert_mean": 3.2952386454739564,
+        "wordnet_depth_mean": 6.046071713277309,
+        "word_count_mean": 126.0,
+        "sentence_count_mean": 5.0
+      },
+      {
+        "vendor": "GROK",
+        "model": "grok-2",
+        "n_attempts": 7,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GROK",
+        "model": "grok-2-mini",
+        "n_attempts": 7,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GROK",
+        "model": "grok-3",
+        "n_attempts": 7,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "GROK",
+        "model": "grok-3-mini",
+        "n_attempts": 7,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "brysbaert_mean": null,
+        "wordnet_depth_mean": null,
+        "word_count_mean": null,
+        "sentence_count_mean": null
+      },
+      {
+        "vendor": "OLLAMA",
+        "model": "gemma2:9b",
+        "n_attempts": 4,
+        "n_success": 4,
+        "success_rate": 100.0,
+        "brysbaert_mean": 3.0272409909909914,
+        "wordnet_depth_mean": 5.746776830739095,
+        "word_count_mean": 119.25,
+        "sentence_count_mean": 8.5
+      },
+      {
+        "vendor": "OLLAMA",
+        "model": "llama3.1:8b",
+        "n_attempts": 4,
+        "n_success": 4,
+        "success_rate": 100.0,
+        "brysbaert_mean": 3.0207144917355793,
+        "wordnet_depth_mean": 5.922213503754847,
+        "word_count_mean": 219.75,
+        "sentence_count_mean": 8.75
+      },
+      {
+        "vendor": "OLLAMA",
+        "model": "llama3:latest",
+        "n_attempts": 4,
+        "n_success": 4,
+        "success_rate": 100.0,
+        "brysbaert_mean": 3.0016678100032106,
+        "wordnet_depth_mean": 5.743085232668566,
+        "word_count_mean": 171.5,
+        "sentence_count_mean": 8.5
+      },
+      {
+        "vendor": "OLLAMA",
+        "model": "mistral:latest",
+        "n_attempts": 4,
+        "n_success": 4,
+        "success_rate": 100.0,
+        "brysbaert_mean": 3.160722364844458,
+        "wordnet_depth_mean": 5.992380952380953,
+        "word_count_mean": 182.0,
+        "sentence_count_mean": 9.5
+      },
+      {
+        "vendor": "OLLAMA",
+        "model": "qwen2.5:7b",
+        "n_attempts": 4,
+        "n_success": 4,
+        "success_rate": 100.0,
+        "brysbaert_mean": 3.135527075782263,
+        "wordnet_depth_mean": 5.968809384007686,
+        "word_count_mean": 152.75,
+        "sentence_count_mean": 8.5
+      },
+      {
+        "vendor": "OPENAI",
+        "model": "gpt-5.1",
+        "n_attempts": 7,
+        "n_success": 6,
+        "success_rate": 85.71428571428571,
+        "brysbaert_mean": 3.299296539451342,
+        "wordnet_depth_mean": 6.033941314101273,
+        "word_count_mean": 200.33333333333334,
+        "sentence_count_mean": 7.333333333333333
+      },
+      {
+        "vendor": "OPENAI",
+        "model": "gpt-5.2-pro",
+        "n_attempts": 7,
+        "n_success": 3,
+        "success_rate": 42.857142857142854,
+        "brysbaert_mean": 3.2386750673652163,
+        "wordnet_depth_mean": 5.892027919260517,
+        "word_count_mean": 244.33333333333334,
+        "sentence_count_mean": 9.0
+      },
+      {
+        "vendor": "OPENAI",
+        "model": "gpt-5.3-chat-latest",
+        "n_attempts": 7,
+        "n_success": 4,
+        "success_rate": 57.14285714285714,
+        "brysbaert_mean": 3.2067698884695734,
+        "wordnet_depth_mean": 5.889080449478317,
+        "word_count_mean": 171.5,
+        "sentence_count_mean": 8.5
+      },
+      {
+        "vendor": "OPENAI",
+        "model": "gpt-5.4",
+        "n_attempts": 15,
+        "n_success": 12,
+        "success_rate": 80.0,
+        "brysbaert_mean": 3.2129069726353845,
+        "wordnet_depth_mean": 5.862285689765609,
+        "word_count_mean": 151.75,
+        "sentence_count_mean": 6.25
+      },
+      {
+        "vendor": "OPENAI",
+        "model": "gpt-5.4-pro",
+        "n_attempts": 10,
+        "n_success": 3,
+        "success_rate": 30.0,
+        "brysbaert_mean": 3.06281805174844,
+        "wordnet_depth_mean": 5.700433702347873,
+        "word_count_mean": 219.66666666666666,
+        "sentence_count_mean": 9.0
+      }
+    ]
+  },
+  "F1": {
+    "overall": {
+      "n_entries": 1285,
+      "n_success": 1038,
+      "n_failed": 247,
+      "success_rate_pct": 80.77821011673151,
+      "successful_duration": {
+        "n": 1038,
+        "mean": 27.898227360308287,
+        "median": 19.17,
+        "p90": 23.208000000000006,
+        "p95": 28.08349999999998,
+        "p99": 419.54419999999726,
+        "max": 724.36
+      },
+      "failed_duration": {
+        "n": 247,
+        "mean": 100.73364372469634,
+        "median": 0.27,
+        "p90": 284.15600000000086,
+        "p95": 790.8049999999995,
+        "p99": 1199.297,
+        "max": 3079.65
+      }
+    },
+    "per_model": [
+      {
+        "model": "gemini-3-pro-image-preview",
+        "n": 1047,
+        "n_success": 974,
+        "success_rate_pct": 93.02769818529131,
+        "successful_n": 974,
+        "successful_mean": 28.563141683778234,
+        "successful_median": 19.265,
+        "successful_p90": 23.19,
+        "successful_p95": 27.547999999999956,
+        "successful_p99": 438.7450999999993,
+        "successful_max": 724.36
+      },
+      {
+        "model": "gemini-3.1-pro-preview",
+        "n": 80,
+        "n_success": 0,
+        "success_rate_pct": 0.0
+      },
+      {
+        "model": "imagen-3.0-generate-002",
+        "n": 80,
+        "n_success": 0,
+        "success_rate_pct": 0.0
+      },
+      {
+        "model": "gemini-2.5-flash-image",
+        "n": 54,
+        "n_success": 54,
+        "success_rate_pct": 100.0,
+        "successful_n": 54,
+        "successful_mean": 6.674444444444443,
+        "successful_median": 6.375,
+        "successful_p90": 7.722,
+        "successful_p95": 7.969499999999998,
+        "successful_p99": 8.672999999999998,
+        "successful_max": 9.15
+      },
+      {
+        "model": "gemini-3.1-flash-image-preview",
+        "n": 13,
+        "n_success": 10,
+        "success_rate_pct": 76.92307692307693,
+        "successful_n": 10,
+        "successful_mean": 77.744,
+        "successful_median": 66.2,
+        "successful_p90": 134.60299999999998,
+        "successful_p95": 154.28149999999994,
+        "successful_p99": 170.0243,
+        "successful_max": 173.96
+      },
+      {
+        "model": "gemini-3.1-flash-image",
+        "n": 11,
+        "n_success": 0,
+        "success_rate_pct": 0.0
+      }
+    ],
+    "n_days": 8
+  }
+}

@@ -1,0 +1,10 @@
+s1: A glowing white cylinder is positioned vertically within a set of curved gray arms and a textured ring base atop a slanted white pedestal.
+s10: Various gray industrial components, including flanged pipes, aluminum extrusions, and fasteners, are arranged in a radial pattern on a white surface.
+s2: A hydraulic cylinder is shown connected to a segmented track through a series of mechanical linkages.
+s3: A 3D digital rendering shows a cross-section of a mechanical assembly with internal components and a shaft with a circular disc.
+s4: A 3D rendering depicts a white mechanical assembly with pulleys, belts, and rails, featuring a large wheel in motion against a plain background.
+s5: A light gray 3D model of a central hub surrounded by a ring of blocks and two larger intersecting rings is positioned against a white background.
+s6: A monochromatic mechanical assembly is shown with a knurled shaft, a chain, and multiple toothed belts.
+s7: A white 3D model of a mechanical device with spreading appendages and long rails is shown resting on a support structure.
+s8: A monochromatic 3D rendering displays various mechanical components, including gears, a driveshaft with universal joints, and shock absorbers, against a plain white background.
+s9: A collection of various gray and silver 3D geometric shapes, including a central glowing white shape, are arranged on a white background.

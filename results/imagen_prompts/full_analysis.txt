@@ -1,0 +1,50 @@
+==============================================================================
+1. PER-TASK SPLIT (jar 22 sessions, skii 10 sessions — 32 total in log)
+==============================================================================
+Task       n_pairs     NC AL     VC AL      Δ AL   NC Brys   VC Brys    Δ Brys   NC>VC %
+----------------------------------------------------------------------------------------
+jar            110    0.7221    0.7196   +0.0025     3.684     3.765    -0.081     77.3%
+        AL paired t=+6.75, p=7.54e-10, d=0.643
+        Brys paired t=-27.43, p=9.47e-51, d=-2.616
+skii            50    0.7228    0.7198   +0.0030     3.675     3.748    -0.073     78.0%
+        AL paired t=+5.11, p=5.37e-06, d=0.722
+        Brys paired t=-13.90, p=1.25e-18, d=-1.966
+
+==============================================================================
+2. THREE-STAGE AL TRAJECTORY: source-text → imagen-prompt → i2t-description
+==============================================================================
+Stage                 Task        n     NC AL     VC AL     NC-VC
+-----------------------------------------------------------------
+1. source text        jar        22    0.7417    0.7047   +0.0370
+1. source text        skii       10    0.7473    0.7027   +0.0446
+2. imagen prompt      jar       110    0.7221    0.7196   +0.0025
+2. imagen prompt      skii       50    0.7228    0.7198   +0.0030
+3. i2t description    jar        20    0.7627    0.7281   +0.0346
+3. i2t description    skii       10    0.7600    0.7188   +0.0412
+
+Interpretation: the NC-VC gap (last column) at each stage shows where
+the abstraction signal is preserved, compressed, or amplified.
+
+==============================================================================
+3. LEXICAL & EMBEDDING SIMILARITY between paired NC and VC prompts
+==============================================================================
+Jaccard token overlap (NC vs VC) across 160 paired prompts:
+  mean: 0.6928    sd: 0.0316
+  min:  0.6220    max: 0.7810
+  S1: mean 0.7105
+  S2: mean 0.6767
+  S3: mean 0.6924
+  S4: mean 0.6855
+  S5: mean 0.6990
+(sentence-transformers unavailable: No module named 'pyarrow_hotfix')
+
+==============================================================================
+4. BRYSBAERT vs AL DIVERGENCE on imagen prompts (n=160 paired)
+==============================================================================
+On the per-pair direction question 'is NC more abstract than VC?':
+  AL and Brysbaert AGREE   : 125/160 = 78.1%
+  AL and Brysbaert DISAGREE: 35/160 = 21.9%
+Pearson(AL delta, Brys delta) = -0.096, p = 2.29e-01
+  Negative r is expected if NC more abstract on AL coincides with NC less concrete on Brys.
+
+Written: /Users/noman/Documents/Thesis/evaluation/results/imagen_prompts/summary.json

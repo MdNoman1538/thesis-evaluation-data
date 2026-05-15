@@ -1,0 +1,196 @@
+{
+  "sources": {
+    "ImagenAndDescriptionV1 (stimuli)": {
+      "n_stimuli": 138,
+      "rule8_word_count_spread_le_2": [
+        51,
+        138
+      ],
+      "rule8_pct": 36.95652173913043,
+      "spread_mean": 7.7898550724637685,
+      "spread_max": 99,
+      "brysbaert_nc_lt_mc_lt_vc": [
+        136,
+        138
+      ],
+      "wordnet_nc_lt_mc_lt_vc": [
+        80,
+        138
+      ],
+      "nc_brysbaert_mean": 3.0003153596051426,
+      "mc_brysbaert_mean": 3.3068902054464138,
+      "vc_brysbaert_mean": 3.939500828766333,
+      "nc_wordnet_mean": 5.9204436840222865,
+      "mc_wordnet_mean": 6.03125899375217,
+      "vc_wordnet_mean": 6.483718298373463,
+      "nc_word_count_mean": 125.14492753623189,
+      "mc_word_count_mean": 126.18115942028986,
+      "vc_word_count_mean": 129.2536231884058,
+      "nc_sentence_count_mean": 5.0,
+      "vc_sentence_count_mean": 4.927536231884058
+    },
+    "Imagen 3  copy (stimuli)": {
+      "n_stimuli": 120,
+      "rule8_word_count_spread_le_2": [
+        48,
+        120
+      ],
+      "rule8_pct": 40.0,
+      "spread_mean": 7.4,
+      "spread_max": 99,
+      "brysbaert_nc_lt_mc_lt_vc": [
+        120,
+        120
+      ],
+      "wordnet_nc_lt_mc_lt_vc": [
+        69,
+        120
+      ],
+      "nc_brysbaert_mean": 3.0023695650475895,
+      "mc_brysbaert_mean": 3.3076036999856484,
+      "vc_brysbaert_mean": 3.9489003367572963,
+      "nc_wordnet_mean": 5.915408523502017,
+      "mc_wordnet_mean": 6.018155126849099,
+      "vc_wordnet_mean": 6.479077162586835,
+      "nc_word_count_mean": 124.975,
+      "mc_word_count_mean": 125.825,
+      "vc_word_count_mean": 128.2,
+      "nc_sentence_count_mean": 5.0,
+      "vc_sentence_count_mean": 4.916666666666667
+    },
+    "Imagen 3  v2 dual generation (stimuli)": {
+      "n_stimuli": 113,
+      "rule8_word_count_spread_le_2": [
+        46,
+        113
+      ],
+      "rule8_pct": 40.707964601769916,
+      "spread_mean": 7.460176991150442,
+      "spread_max": 99,
+      "brysbaert_nc_lt_mc_lt_vc": [
+        113,
+        113
+      ],
+      "wordnet_nc_lt_mc_lt_vc": [
+        63,
+        113
+      ],
+      "nc_brysbaert_mean": 3.0010487400838515,
+      "mc_brysbaert_mean": 3.298983075089242,
+      "vc_brysbaert_mean": 3.949548936212713,
+      "nc_wordnet_mean": 5.912161382500425,
+      "mc_wordnet_mean": 6.012770661989765,
+      "vc_wordnet_mean": 6.477587955515433,
+      "nc_word_count_mean": 124.75221238938053,
+      "mc_word_count_mean": 125.31858407079646,
+      "vc_word_count_mean": 127.89380530973452,
+      "nc_sentence_count_mean": 5.0,
+      "vc_sentence_count_mean": 4.911504424778761
+    },
+    "Imagen 3  (stimuli)": {
+      "n_stimuli": 38,
+      "rule8_word_count_spread_le_2": [
+        16,
+        38
+      ],
+      "rule8_pct": 42.10526315789473,
+      "spread_mean": 10.5,
+      "spread_max": 99,
+      "brysbaert_nc_lt_mc_lt_vc": [
+        38,
+        38
+      ],
+      "wordnet_nc_lt_mc_lt_vc": [
+        18,
+        38
+      ],
+      "nc_brysbaert_mean": 2.989489620787902,
+      "mc_brysbaert_mean": 3.299105242890732,
+      "vc_brysbaert_mean": 3.9351979193176927,
+      "nc_wordnet_mean": 5.898106535079172,
+      "mc_wordnet_mean": 5.963731329459085,
+      "vc_wordnet_mean": 6.422544101170323,
+      "nc_word_count_mean": 125.39473684210526,
+      "mc_word_count_mean": 125.89473684210526,
+      "vc_word_count_mean": 123.28947368421052,
+      "nc_sentence_count_mean": 5.0,
+      "vc_sentence_count_mean": 4.7368421052631575
+    },
+    "Stimuli_and_image_v2 (stimuli)": {
+      "n_stimuli": 36,
+      "rule8_word_count_spread_le_2": [
+        14,
+        36
+      ],
+      "rule8_pct": 38.88888888888889,
+      "spread_mean": 11.0,
+      "spread_max": 99,
+      "brysbaert_nc_lt_mc_lt_vc": [
+        36,
+        36
+      ],
+      "wordnet_nc_lt_mc_lt_vc": [
+        18,
+        36
+      ],
+      "nc_brysbaert_mean": 2.9836606127924585,
+      "mc_brysbaert_mean": 3.2977903988348043,
+      "vc_brysbaert_mean": 3.9386031152372944,
+      "nc_wordnet_mean": 5.875134357951881,
+      "mc_wordnet_mean": 5.958742756594276,
+      "vc_wordnet_mean": 6.4345817285902855,
+      "nc_word_count_mean": 125.47222222222223,
+      "mc_word_count_mean": 126.0,
+      "vc_word_count_mean": 123.22222222222223,
+      "nc_sentence_count_mean": 5.0,
+      "vc_sentence_count_mean": 4.722222222222222
+    },
+    "testBench (stimuli)": {
+      "n_stimuli": 15,
+      "rule8_word_count_spread_le_2": [
+        4,
+        15
+      ],
+      "rule8_pct": 26.666666666666668,
+      "spread_mean": 19.466666666666665,
+      "spread_max": 99,
+      "brysbaert_nc_lt_mc_lt_vc": [
+        15,
+        15
+      ],
+      "wordnet_nc_lt_mc_lt_vc": [
+        10,
+        15
+      ],
+      "nc_brysbaert_mean": 2.972471178640686,
+      "mc_brysbaert_mean": 3.3364796888051855,
+      "vc_brysbaert_mean": 3.9943202383184966,
+      "nc_wordnet_mean": 5.875054918925544,
+      "mc_wordnet_mean": 6.042183238912333,
+      "vc_wordnet_mean": 6.479251995442356,
+      "nc_word_count_mean": 125.53333333333333,
+      "mc_word_count_mean": 125.86666666666666,
+      "vc_word_count_mean": 113.53333333333333,
+      "nc_sentence_count_mean": 5.0,
+      "vc_sentence_count_mean": 4.333333333333333
+    }
+  },
+  "overall": {
+    "n_total": 661,
+    "n_with_nc_mc_vc": 661,
+    "rule8_pass_count": 288,
+    "rule8_pct": 43.57034795763994,
+    "brysbaert_ordering_pass_count": 657,
+    "brysbaert_ordering_total": 661,
+    "brysbaert_ordering_pct": 99.39485627836612,
+    "wordnet_ordering_pass_count": 376,
+    "wordnet_ordering_total": 661,
+    "wordnet_ordering_pct": 56.88350983358548,
+    "nc_brysbaert_mean": 3.004326459534935,
+    "mc_brysbaert_mean": 3.3097825980555844,
+    "vc_brysbaert_mean": 3.943483319028372,
+    "nc_wordnet_mean": 5.923977226340305,
+    "mc_wordnet_mean": 6.041384380364872,
+    "vc_wordnet_mean": 6.4842172795758035
+  }
+}
