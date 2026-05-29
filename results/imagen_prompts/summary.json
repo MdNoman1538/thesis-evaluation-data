@@ -1,4 +1,4 @@
 {
-  "per_prompt_n": 320,
-  "n_pairs": 160
+  "per_prompt_n": 300,
+  "n_pairs": 150
 }

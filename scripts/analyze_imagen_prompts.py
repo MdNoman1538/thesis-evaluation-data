@@ -15,13 +15,15 @@ import scipy.stats as st
 LOG_PATH = "/Users/noman/Documents/Thesis/Apps/StimuliGenerator/generation_log.jsonl"
 OUT_DIR = Path("/Users/noman/Documents/Thesis/evaluation/results/imagen_prompts")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
+# Exclude the 2 sessions corresponding to the dropped skii runs (Skii 9, skii 10)
+EXCLUDED_SESSIONS = {"20260508_012334_453481", "20260508_012549_834081"}
 
 # Load
 sessions = []
 with open(LOG_PATH) as f:
     for line in f:
         d = json.loads(line)
-        if d.get("paired_prompts") and len(d["paired_prompts"]) == 5:
+        if d.get("paired_prompts") and len(d["paired_prompts"]) == 5 and d.get("session_id") not in EXCLUDED_SESSIONS:
             sessions.append(d)
 
 def task_kind(task: str) -> str:
@@ -99,7 +101,7 @@ with open("/Users/noman/Documents/Thesis/evaluation/results/rq2/analyzer_source_
 
 # Per-task pooled corpus source mean
 src_jar  = [v for k,v in src_by_folder.items() if k.lower().startswith("jar")]
-src_skii = [v for k,v in src_by_folder.items() if k.lower().startswith("skii")]
+src_skii = [v for k,v in src_by_folder.items() if k.lower().startswith(("skii","snow"))]
 def avg(values, field):
     vs = [v[field] for v in values]
     return statistics.mean(vs), statistics.stdev(vs), len(vs)
