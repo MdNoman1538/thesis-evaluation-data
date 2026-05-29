@@ -1,6 +1,6 @@
 # RQ2 — Slot-wise pairwise evaluation of the textual stimuli
 
-33 source runs × 25 noun-phrase slots per run = **757 paired slot observations**.
+33 source runs × 25 noun-phrase slots per run = **712 paired slot observations**.
 
 Each source pair is one (NC, VC) text comparison from the 33-run participant-facing corpus. The locked five-sentence skeleton guarantees that slot $N_i$ in every run refers to the same conceptual noun position, so the slot index is comparable across runs. The metric is the normalised abstraction level (AL) on $[0, 1]$, with 1 = most abstract.
 
@@ -8,21 +8,21 @@ Each source pair is one (NC, VC) text comparison from the 33-run participant-fac
 
 | Statistic | Value |
 |---|---|
-| NC mean AL | 0.7444  (SD 0.0670) |
-| VC mean AL | 0.7061  (SD 0.0712) |
-| mean delta (NC − VC) | **+0.0383**  (SD 0.0970) |
-| paired t-test | t = +10.855,  p = 1.3e-25 |
-| Cohen's d | **0.395**  (small) |
-| slots where NC > VC | 452  (59.7\%) |
-| slots where NC < VC | 220 |
-| slots tied | 85 |
+| NC mean AL | 0.7444  (SD 0.0675) |
+| VC mean AL | 0.7059  (SD 0.0713) |
+| mean delta (NC − VC) | **+0.0385**  (SD 0.0979) |
+| paired t-test | t = +10.496,  p = 4.66e-24 |
+| Cohen's d | **0.393**  (small) |
+| slots where NC > VC | 426  (59.8\%) |
+| slots where NC < VC | 206 |
+| slots tied | 80 |
 
 ## Per task
 
 | Task | n runs | n pairs | NC mean | VC mean | delta mean | t | p | Cohen's d | Effect | NC>VC % |
 |---|---|---|---|---|---|---|---|---|---|---|
 | jar | 22 | 509 | 0.7427 | 0.7074 | +0.0353 | +7.933 | 1.37e-14 | 0.352 | small | 58.7 |
-| skii | 11 | 248 | 0.7480 | 0.7036 | +0.0444 | +7.806 | 1.67e-13 | 0.496 | small | 61.7 |
+| skii | 9 | 203 | 0.7486 | 0.7021 | +0.0465 | +7.282 | 7.18e-12 | 0.511 | medium | 62.6 |
 
 ## Per slot mean across 33 source runs
 
@@ -30,37 +30,36 @@ Slots with large positive delta mean are the slots where the methodology produce
 
 | Slot | n | NC mean | VC mean | delta mean | delta SD | NC>VC % |
 |---|---|---|---|---|---|---|
-| N1 | 26 | 0.7378 | 0.6741 | +0.0637 | 0.0948 | 57.7 |
-| N2 | 28 | 0.7340 | 0.6786 | +0.0554 | 0.0799 | 71.4 |
-| N3 | 29 | 0.7396 | 0.7151 | +0.0245 | 0.0867 | 51.7 |
-| N4 | 29 | 0.7250 | 0.7129 | +0.0121 | 0.1269 | 58.6 |
-| N5 | 32 | 0.7450 | 0.7475 | -0.0025 | 0.0932 | 31.2 |
-| N6 | 31 | 0.7470 | 0.7156 | +0.0314 | 0.1073 | 54.8 |
-| N7 | 30 | 0.7386 | 0.7032 | +0.0354 | 0.0874 | 60.0 |
-| N8 | 29 | 0.7513 | 0.6736 | +0.0777 | 0.0698 | 79.3 |
-| N9 | 31 | 0.7445 | 0.6613 | +0.0832 | 0.0884 | 77.4 |
-| N10 | 24 | 0.7434 | 0.6897 | +0.0537 | 0.1096 | 62.5 |
-| N11 | 30 | 0.7579 | 0.6880 | +0.0699 | 0.0877 | 70.0 |
-| N12 | 33 | 0.7767 | 0.7775 | -0.0008 | 0.0807 | 57.6 |
-| N13 | 33 | 0.7304 | 0.6685 | +0.0619 | 0.0630 | 81.8 |
-| N14 | 33 | 0.7408 | 0.6938 | +0.0470 | 0.0735 | 63.6 |
-| N15 | 33 | 0.7161 | 0.6861 | +0.0300 | 0.1062 | 57.6 |
-| N16 | 33 | 0.7352 | 0.7249 | +0.0104 | 0.0584 | 39.4 |
-| N17 | 30 | 0.7482 | 0.7517 | -0.0035 | 0.0763 | 46.7 |
-| N18 | 31 | 0.7241 | 0.7080 | +0.0161 | 0.0916 | 51.6 |
-| N19 | 31 | 0.7479 | 0.6893 | +0.0586 | 0.0831 | 64.5 |
-| N20 | 28 | 0.7453 | 0.7021 | +0.0432 | 0.0998 | 64.3 |
-| N21 | 29 | 0.7323 | 0.7214 | +0.0109 | 0.1040 | 48.3 |
-| N22 | 27 | 0.7134 | 0.7190 | -0.0055 | 0.0909 | 44.4 |
-| N23 | 32 | 0.7204 | 0.7475 | -0.0271 | 0.1200 | 31.2 |
-| N24 | 33 | 0.8086 | 0.7169 | +0.0917 | 0.0856 | 78.8 |
-| N25 | 32 | 0.7952 | 0.6741 | +0.1211 | 0.1018 | 87.5 |
+| N1 | 24 | 0.7445 | 0.6754 | +0.0690 | 0.0956 | 58.3 |
+| N2 | 26 | 0.7338 | 0.6802 | +0.0536 | 0.0824 | 69.2 |
+| N3 | 27 | 0.7388 | 0.7164 | +0.0224 | 0.0896 | 48.1 |
+| N4 | 28 | 0.7265 | 0.7121 | +0.0144 | 0.1287 | 60.7 |
+| N5 | 30 | 0.7456 | 0.7456 | +0.0000 | 0.0957 | 33.3 |
+| N6 | 29 | 0.7495 | 0.7160 | +0.0336 | 0.1098 | 55.2 |
+| N7 | 28 | 0.7378 | 0.7027 | +0.0351 | 0.0905 | 57.1 |
+| N8 | 27 | 0.7495 | 0.6699 | +0.0796 | 0.0687 | 81.5 |
+| N9 | 29 | 0.7423 | 0.6633 | +0.0789 | 0.0898 | 75.9 |
+| N10 | 23 | 0.7425 | 0.6899 | +0.0526 | 0.1119 | 60.9 |
+| N11 | 29 | 0.7604 | 0.6863 | +0.0741 | 0.0860 | 72.4 |
+| N12 | 31 | 0.7827 | 0.7784 | +0.0043 | 0.0781 | 58.1 |
+| N13 | 31 | 0.7275 | 0.6692 | +0.0583 | 0.0609 | 80.6 |
+| N14 | 31 | 0.7394 | 0.6893 | +0.0501 | 0.0748 | 67.7 |
+| N15 | 31 | 0.7173 | 0.6862 | +0.0311 | 0.1083 | 58.1 |
+| N16 | 31 | 0.7351 | 0.7241 | +0.0110 | 0.0587 | 38.7 |
+| N17 | 29 | 0.7468 | 0.7541 | -0.0073 | 0.0747 | 44.8 |
+| N18 | 29 | 0.7250 | 0.7032 | +0.0218 | 0.0920 | 55.2 |
+| N19 | 29 | 0.7486 | 0.6897 | +0.0590 | 0.0849 | 65.5 |
+| N20 | 27 | 0.7437 | 0.7008 | +0.0429 | 0.1017 | 63.0 |
+| N21 | 27 | 0.7300 | 0.7222 | +0.0078 | 0.1072 | 44.4 |
+| N22 | 25 | 0.7116 | 0.7154 | -0.0039 | 0.0941 | 48.0 |
+| N23 | 30 | 0.7123 | 0.7447 | -0.0325 | 0.1214 | 30.0 |
+| N24 | 31 | 0.8090 | 0.7148 | +0.0942 | 0.0867 | 80.6 |
+| N25 | 30 | 0.7974 | 0.6822 | +0.1152 | 0.1003 | 86.7 |
 
 ## Per run (analyzer's own paired t-test on 25 slots within that run)
 
 | Run folder | Task | AL_NC | AL_VC | delta | t | p |
 |---|---|---|---|---|---|---|
-| source_Skii_9_new_wordnetfailed_2_passed_3_1_pro | skii | 0.7384 | 0.6970 | +0.0414 | +2.099 | 0.047 |
 | source_jar_10_2failed_bci_passed_3_1_pro | jar | 0.7246 | 0.6990 | +0.0256 | +1.658 | 0.112 |
 | source_jar_11_2failed_bci_passed_3_1_pro | jar | 0.7384 | 0.7120 | +0.0264 | +1.241 | 0.228 |
 | source_jar_12_2failed_bci_passed_3_1_pro | jar | 0.7514 | 0.7138 | +0.0376 | +2.044 | 0.0531 |
@@ -84,7 +83,6 @@ Slots with large positive delta mean are the slots where the methodology produce
 | source_jar_8_bad_image_2failed_bci_passed_3_1_pro | jar | 0.7244 | 0.6959 | +0.0285 | +0.531 | 0.6 |
 | source_jar_9_2failed_bci_passed_3_1_pro | jar | 0.7209 | 0.7086 | +0.0123 | +0.511 | 0.614 |
 | source_skii_01_bci_only_passed_3_1_pro | skii | 0.7464 | 0.7119 | +0.0345 | +1.454 | 0.159 |
-| source_skii_10_1_old_wordnetfailed_2_passed_3_1_pro | skii | 0.7493 | 0.7187 | +0.0306 | +1.839 | 0.0808 |
 | source_skii_2_passed_3_1 | skii | 0.7430 | 0.6970 | +0.0460 | +2.778 | 0.011 |
 | source_skii_3_passed_but_new_wordnet_fail_3_1 | skii | 0.7523 | 0.6935 | +0.0588 | +3.182 | 0.00415 |
 | source_skii_4_passed_3_1 | skii | 0.7539 | 0.6789 | +0.0750 | +4.053 | 0.000621 |
