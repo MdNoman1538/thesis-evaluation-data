@@ -1,0 +1,5 @@
+S1: Two mechanical hands hold a wedge-shaped object, guiding it through a ring toward a circular opening containing various geometric shapes.
+S2: A four-panel sequence displays a 3D-rendered mechanical linkage progressively engaging a rectangular block, culminating in a final frame where the block is replaced by a dark recess.
+S3: A light grey, untextured 3D model of an articulated mechanical component with a polygonal base and a hinged arm is displayed against a white background.
+S4: Several smooth, faceted, light-grey geometric objects, including a rod, a block, and wedge-like shapes, are arranged in close contact on a curved base.
+S5: A top-down view shows a stylized white model of an open-top car surrounded by a radiating arrangement of grey geometric shapes.

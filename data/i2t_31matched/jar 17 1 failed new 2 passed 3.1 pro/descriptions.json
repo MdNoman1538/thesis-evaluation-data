@@ -1,0 +1,60 @@
+{
+  "source": "jar 17 1 failed new 2 passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:37:57",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_14_nc_S1.png",
+      "description": "A 3D rendering shows a mechanical assembly featuring a faceted central shaft, a surrounding ring with protruding tabs, and metallic bearings connecting to a cylindrical end cap."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_14_nc_S2.png",
+      "description": "Rough, faceted stones move along a conveyor belt into a mechanical device that shapes them into smooth, rounded cubes."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_14_nc_S3.png",
+      "description": "A light grey, angular bracket holds a silver cylindrical roller mounted on a white axle against a plain background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_14_nc_S4.png",
+      "description": "A light grey sculptural object features a hinged arm positioned above a connected bowl filled with small white spheres."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_14_nc_S5.png",
+      "description": "Various light grey, geometric mechanical components are arranged flat on a white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_14_vc_S1.png",
+      "description": "A light gray power drill is attached to a mechanical assembly, twisting a thick white substance between two circular plates."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_14_vc_S2.png",
+      "description": "Cylindrical jars move along a conveyor belt through a monochromatic mechanical station equipped with exposed gears, a handle, and hanging straps with buckles."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_14_vc_S3.png",
+      "description": "A light grey hex bolt protrudes from the center of a textured grey component topped with a dark grey, U-shaped pad."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_14_vc_S4.png",
+      "description": "A grey mechanical device with a handle and lever is positioned above a tray containing small white objects."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_14_vc_S5.png",
+      "description": "Disassembled, light gray mechanical components are arranged on a plain white background."
+    }
+  ]
+}

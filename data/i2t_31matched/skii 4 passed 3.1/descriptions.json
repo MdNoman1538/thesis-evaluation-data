@@ -1,0 +1,60 @@
+{
+  "source": "skii 4 passed 3.1",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:07:40",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_21_nc_S1.png",
+      "description": "A grey, clay-like mechanical model features a gear attached to an arm that surrounds a central white cylinder within an arched frame."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_21_nc_S2.png",
+      "description": "A light-colored mechanical claw structure is breaking apart into small cubes on its left side."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_21_nc_S3.png",
+      "description": "A 3D rendering displays a plain grey mechanical assembly featuring a lever connected by a hinge to an L-shaped bracket positioned next to a cylindrical wheel."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_21_nc_S4.png",
+      "description": "A 3D rendering shows a mechanical assembly where multiple grey, curved arms extend from one side of a central faceted collar, while white arms on the opposite side connect to a hinged rectangular plate."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_21_nc_S5.png",
+      "description": "Various light grey geometric blocks are arranged symmetrically on a white surface around a central, cross-shaped object."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_21_vc_S1.png",
+      "description": "A monochromatic 3D rendering shows a pedal-powered, tracked mechanical device with a central gyroscopic structure and a large toothed wheel excavating a rocky incline."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_21_vc_S2.png",
+      "description": "A monochromatic rendering displays a mechanical assembly featuring gears, a chain, and caliper brakes situated between riveted, curved arms that emerge from draped material and connect to ribbed cylinders."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_21_vc_S3.png",
+      "description": "A metal cylindrical component of a wheel assembly is pressing into a knobby tire, causing the rubber to deform and rupture."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_21_vc_S4.png",
+      "description": "A light gray 3D rendering shows a static mechanical assembly consisting of interconnected rods, a central textured handle, and a semi-circular gear mechanism positioned next to a solid cube."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_21_vc_S5.png",
+      "description": "A collection of light grey mechanical components, including a central hub assembly surrounded by various brackets, ribbed plates, and circular discs, is arranged on a plain white surface."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+S1: A low-poly 3D model of a white cylinder with a grey top handle and segmented grey rings is displayed against a white background.
+S2: A grey, 3D-rendered mechanical linkage connects a single shaft to two parallel arms featuring rectangular blocks.
+S3: A mechanical joint connects a forked arm to a base block via a cylindrical pin, with thick wire coiled around the arm and looped onto the base.
+S4: A 3D rendering shows an exploded view of a mechanical assembly featuring a grey faceted shaft, white contoured connectors, a metallic ring, and a flanged base.
+S5: A central white rectangular mechanism containing gears is surrounded by concentric rings of white geometric blocks and metallic connecting rods.

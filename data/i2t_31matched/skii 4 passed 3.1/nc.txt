@@ -1,0 +1,5 @@
+S1: A grey, clay-like mechanical model features a gear attached to an arm that surrounds a central white cylinder within an arched frame.
+S2: A light-colored mechanical claw structure is breaking apart into small cubes on its left side.
+S3: A 3D rendering displays a plain grey mechanical assembly featuring a lever connected by a hinge to an L-shaped bracket positioned next to a cylindrical wheel.
+S4: A 3D rendering shows a mechanical assembly where multiple grey, curved arms extend from one side of a central faceted collar, while white arms on the opposite side connect to a hinged rectangular plate.
+S5: Various light grey geometric blocks are arranged symmetrically on a white surface around a central, cross-shaped object.

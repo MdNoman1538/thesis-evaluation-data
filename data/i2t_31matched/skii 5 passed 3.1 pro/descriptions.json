@@ -1,0 +1,60 @@
+{
+  "source": "skii 5 passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:09:23",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_22_nc_S1.png",
+      "description": "A glowing white cylinder extends through the center of a grey, treaded ring and curved structural elements resting on an angled base."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_22_nc_S2.png",
+      "description": "A 3D rendering shows a cross-section of a mechanical component featuring three internal pill-shaped elements, three prongs protruding from the left, and a rod terminating in a flat disc extending to the right."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_22_nc_S3.png",
+      "description": "A light grey 3D model of an abstract, planet-like object featuring a faceted central body, a segmented equatorial band, and two intersecting outer rings is displayed against a white background."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_22_nc_S4.png",
+      "description": "A light grey 3D rendering shows a mechanical gripper with curved prongs extending from a cylindrical collar mounted on parallel rails and resting on a support stand."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_22_nc_S5.png",
+      "description": "An assortment of grey, three-dimensional geometric shapes with various forms and textures is arranged on a white background around a central, glowing, faceted object."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_22_vc_S1.png",
+      "description": "A mechanical track system features a central cylindrical actuator extending downward to engage with the internal linkage arms."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_22_vc_S2.png",
+      "description": "A mechanical assembly featuring jointed rods, linear guide rails, and a belt-driven pulley system is shown with its large wheel spinning."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_22_vc_S3.png",
+      "description": "A monochromatic mechanical assembly features a central textured shaft engaged with a roller chain and toothed belts."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_22_vc_S4.png",
+      "description": "A monochromatic 3D rendering displays an assortment of mechanical automotive parts, including a gear assembly, a drive shaft with universal joints, a steering rack, and shock absorbers, arranged against a plain white background."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_22_vc_S5.png",
+      "description": "Various grey mechanical components, including pipes, extrusions, and fasteners, are arranged in a radiating circular pattern around a central joint assembly on a white background."
+    }
+  ]
+}

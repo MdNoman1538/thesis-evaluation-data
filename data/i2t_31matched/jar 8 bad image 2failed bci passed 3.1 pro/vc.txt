@@ -1,0 +1,5 @@
+S1: A robotic hand grips the threaded end of a cylindrical component attached to another robotic arm.
+S2: A detailed, untextured 3D render shows a complex mechanical assembly featuring gears, springs, and articulated linkages.
+S3: A grey mechanical assembly features a central toothed gear resting on segmented pads, with two hinged metal arms attached to a central shaft above it.
+S4: A grey mechanical assembly featuring a textured handle, threaded components, and a separate base piece is shown with a circular arrow indicating rotational movement on the left end of the shaft.
+S5: A white, gun-shaped mechanical model is surrounded by grey plastic brackets and rectangular casings on a white background.

@@ -1,0 +1,5 @@
+S1: A mechanical gripper is holding a translucent cylindrical object.
+S2: A monochromatic 3D rendering displays a mechanical assembly featuring interconnected gears, a track, a coiled spring, and a lever connected to a threaded rod.
+S3: A grey mechanical model displays two coiled springs attached to a system of interlocking gears and a connecting arm, all resting on a base plate with four stepped feet.
+S4: Separated grey mechanical components are shown alongside a smaller, broken cylindrical piece.
+S5: A white mechanical device with exposed gears is surrounded by a circular arrangement of plastic handles, molded parts on sprues, and piles of plastic pellets.

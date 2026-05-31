@@ -1,0 +1,60 @@
+{
+  "source": "jar 20 2failed bci passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:44:47",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_18_nc_S1.png",
+      "description": "A grey, cylindrical object with an encircling ring and a glowing circular detail floats against a white background with its top cap detached and hovering above it."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_18_nc_S2.png",
+      "description": "A 3D-rendered mechanical device with two coiled springs and a jointed end extends toward a detached cylinder and two small cubes."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_18_nc_S3.png",
+      "description": "A light grey, faceted mechanical appendage with a circular base and a hinged, blocky component is displayed against a plain white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_18_nc_S4.png",
+      "description": "A grey object with wavy cables extending from one side and straight rods from the other has a cracked white rectangular block attached to its side."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_18_nc_S5.png",
+      "description": "A collection of light grey, faceted 3D objects, including rock-like shapes and various geometric components, is arranged on a plain white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_18_vc_S1.png",
+      "description": "A grey cylindrical object with a latching mechanism is shown with its threaded cap detached."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_18_vc_S2.png",
+      "description": "A grey mechanical device consists of braided cables entering a central articulated block that extends into several rods ending in two threaded nozzles."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_18_vc_S3.png",
+      "description": "A close-up shows a light grey plastic suction cup mount with a lever mechanism positioned over a textured pad on its circular base."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_18_vc_S4.png",
+      "description": "A light-grey mechanical assembly featuring articulated arms, a molded handle, a shattered glass pane, radial fins, and a disc brake caliper is displayed against a white background."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_18_vc_S5.png",
+      "description": "A disassembled grey tool handle and its scattered components are arranged in the center, surrounded by metal channels above and corrugated panels below."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source": "jar 22 2failed bci passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:48:11",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_21_nc_S1.png",
+      "description": "A grey mechanical clamp is gripping a white cylindrical object."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_21_nc_S2.png",
+      "description": "A light grey mechanical component with a cylindrical shaft and a lever-operated central block is shown with a detached circular cap aligned next to its opening."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_21_nc_S3.png",
+      "description": "A grey rectangular pad is connected to a white, angled arm by a silver hinge."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_21_nc_S4.png",
+      "description": "An illuminated, flat rectangular light panel is attached to a white track lighting rail."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_21_nc_S5.png",
+      "description": "A central grey block containing a metallic cylinder is surrounded by a radial arrangement of grey cylindrical rods, an L-shaped rod, and a rectangular piece on a white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_21_vc_S1.png",
+      "description": "A grey robotic gripper is holding the ridged lid of a white cylindrical container."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_21_vc_S2.png",
+      "description": "A disassembled mechanical coupling with a knurled handle and locking lever is aligned next to a threaded adapter component on a white background."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_21_vc_S3.png",
+      "description": "A close-up shows a grey textured handle attached to a white plastic base by a hinged joint with an engaged metal locking mechanism."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_21_vc_S4.png",
+      "description": "A grey, clay-like model of a mechanical device featuring a handle, trigger, linkage arms, and a toothed gear is displayed against a white background."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_21_vc_S5.png",
+      "description": "Various unassembled, light-colored mechanical components, including gears, hinges, bolts, and structural profiles, are laid out on a white surface."
+    }
+  ]
+}

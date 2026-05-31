@@ -1,0 +1,5 @@
+S1: A light grey, segmented ring structure is shown with one of its curved sections hinged open.
+S2: Inside an open, geometric housing, two robotic arms press down on a line of individual blocks that transition into a continuous, twisted ribbon.
+S3: A close-up view shows an untextured, grey 3D model of a mechanical linkage consisting of interconnected rods, hinges, and base plates with rounded protrusions.
+S4: A light gray 3D rendering shows a static assembly consisting of a rectangular block connected by a rod to a central cylindrical hub, from which an angled arm and two parallel, split rings extend.
+S5: A central white component is surrounded by eight identical bracket-shaped parts and radiating lines of small cylindrical pegs arranged on a white background.

@@ -1,0 +1,5 @@
+S1: A monochromatic 3D rendering shows a pedal-powered, tracked mechanical device with a central gyroscopic structure and a large toothed wheel excavating a rocky incline.
+S2: A monochromatic rendering displays a mechanical assembly featuring gears, a chain, and caliper brakes situated between riveted, curved arms that emerge from draped material and connect to ribbed cylinders.
+S3: A metal cylindrical component of a wheel assembly is pressing into a knobby tire, causing the rubber to deform and rupture.
+S4: A light gray 3D rendering shows a static mechanical assembly consisting of interconnected rods, a central textured handle, and a semi-circular gear mechanism positioned next to a solid cube.
+S5: A collection of light grey mechanical components, including a central hub assembly surrounded by various brackets, ribbed plates, and circular discs, is arranged on a plain white surface.

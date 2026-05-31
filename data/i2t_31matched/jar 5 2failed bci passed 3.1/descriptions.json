@@ -1,0 +1,60 @@
+{
+  "source": "jar 5 2failed bci passed 3.1",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:53:37",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_4_nc_S1.png",
+      "description": "A light gray 3D rendering shows a central sphere encased within a geometric structure of segmented rings and connecting bars against a white background."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_4_nc_S2.png",
+      "description": "A 3D rendering shows a straight faceted shaft connected to a twisted faceted shaft by a multi-part circular coupling."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_4_nc_S3.png",
+      "description": "A static structure composed of smooth, light grey, intersecting geometric blocks is displayed against a plain white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_4_nc_S4.png",
+      "description": "A grey mechanical arm suspends a large, faceted object directly above a smaller white block."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_4_nc_S5.png",
+      "description": "A symmetrical arrangement of white mechanical parts surrounds a central, open capsule containing gears."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_4_vc_S1.png",
+      "description": "A light grey mechanical framework with padded clamps secures a smooth white cylinder."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_4_vc_S2.png",
+      "description": "A close-up shows a mechanical assembly featuring a threaded rod, a toothed wheel, and a textured band secured by a knurled knob."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_4_vc_S3.png",
+      "description": "A close-up view displays a grey mechanical joint assembly consisting of two angled struts connected to a central hinge mechanism resting on padded base sections."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_4_vc_S4.png",
+      "description": "A robotic hand with multiple articulated fingers grips the end of a geared mechanical arm, while a broken piece of casing falls below them."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_4_vc_S5.png",
+      "description": "A central mechanical assembly is surrounded by a symmetrical, radial arrangement of hardware components including bolts, gears, washers, and plates."
+    }
+  ]
+}

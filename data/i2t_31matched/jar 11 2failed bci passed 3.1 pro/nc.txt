@@ -1,0 +1,5 @@
+S1: A light-colored, interconnected structure features a curved arm passing through a ring situated above a central cylinder with rectangular side blocks.
+S2: A 3D rendering displays a light grey mechanical coupling assembly connecting a smooth shaft to a splined shaft.
+S3: An untextured, white 3D model of a mechanical structure with articulated legs and circular footpads stands stationary on a flat surface.
+S4: A 3D rendering shows a central grey disc positioned behind a white cylinder, flanked by a cluster of grey faceted blocks on the left and a structured assembly of white faceted blocks on the right.
+S5: A collection of various grey and white mechanical components is arranged symmetrically around a central handle-like object on a white background.

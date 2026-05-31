@@ -1,0 +1,60 @@
+{
+  "source": "skii 3 passed but new wordnet fail 3.1",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:05:55",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_20_nc_S1.png",
+      "description": "A light grey 3D model depicts a structure with a sphere hanging inside a vertical column and a large, rounded block resting on an attached angled arm."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_20_nc_S2.png",
+      "description": "A grey mechanical device with a crank handle and a protruding rod contains white, block-like shapes positioned next to cylindrical components within its central housing."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_20_nc_S3.png",
+      "description": "A close-up view displays a static, light grey 3D-rendered mechanical assembly featuring a prominent dial, a cylindrical roller, and blocky supports resting on a flat surface."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_20_nc_S4.png",
+      "description": "A 3D rendering depicts a grey, abstract mechanical structure with multiple cylindrical rods extending to the left, an articulated arm reaching to the right, and a white teardrop shape hanging from its central block."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_20_nc_S5.png",
+      "description": "An assortment of uniform, light grey structural components and geometric shapes is arranged symmetrically around a central circular hub on a white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_20_vc_S1.png",
+      "description": "A close-up view displays a grey model of a mechanical wheel assembly featuring a metallic central hub, suspension linkages, and treaded tires."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_20_vc_S2.png",
+      "description": "A monochromatic mechanical assembly features a bicycle pedal linked by a chain to a central gear system and a textured handle."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_20_vc_S3.png",
+      "description": "A grey 3D render shows a mechanical assembly where a studded belt wraps around a gear attached to a linear rail, resting on a textured, uneven surface."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_20_vc_S4.png",
+      "description": "A monochromatic 3D rendering shows motorcycle handlebars with hands sculpted directly into the grips and levers, positioned next to an isolated mechanical linkage."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_20_vc_S5.png",
+      "description": "Various light-colored metal mechanical components, including welded tubular frames, ribbed plates, fasteners, and a central bearing hub, are arranged symmetrically on a white surface."
+    }
+  ]
+}

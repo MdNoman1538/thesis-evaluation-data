@@ -1,0 +1,5 @@
+S1: A robotic hand holds a cylindrical container and its detached threaded cap.
+S2: An exploded view of a mechanical assembly displays interlocking gears and shafts alongside a series of detached, ring-shaped components.
+S3: A close-up view displays a static, grey mechanical assembly featuring suction cups, a knurled central roller, and a hinged, serrated clamping mechanism against a white background.
+S4: A monochromatic mechanical assembly features a joystick-style handle connected to a geared cylindrical hub via articulated linkages and wire cables.
+S5: Various grey manufacturing materials, components, plastic pellets, and a finned enclosure are arranged neatly on a white surface.

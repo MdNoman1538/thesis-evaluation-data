@@ -1,0 +1,5 @@
+S1: A light gray 3D rendering shows a central sphere encased within a geometric structure of segmented rings and connecting bars against a white background.
+S2: A 3D rendering shows a straight faceted shaft connected to a twisted faceted shaft by a multi-part circular coupling.
+S3: A static structure composed of smooth, light grey, intersecting geometric blocks is displayed against a plain white background.
+S4: A grey mechanical arm suspends a large, faceted object directly above a smaller white block.
+S5: A symmetrical arrangement of white mechanical parts surrounds a central, open capsule containing gears.

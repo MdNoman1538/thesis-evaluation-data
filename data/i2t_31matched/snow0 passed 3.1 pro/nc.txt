@@ -1,0 +1,5 @@
+S1: A 3D rendering displays a light grey mechanical assembly featuring gears, a belt drive, and a scissor linkage mechanism holding a white cylinder.
+S2: A close-up shows a light grey, articulated mechanical joint assembly with adjustment knobs against a white background.
+S3: A grey 3D rendering shows a mechanical assembly where a gear meshes with a linear rack designed to slide along cylindrical rods.
+S4: A 3D rendering displays a grey mechanical assembly featuring an articulated linkage, a central cylinder with a weighted pivoting arm, and a sliding block holding a vertical plate on parallel rails.
+S5: A faceted white central object is surrounded by grey cylinders and rings radiating outwards on a plain background.

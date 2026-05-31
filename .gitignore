@@ -1,4 +1,12 @@
-.DS_Store
+# Rejected-method artefacts (kept locally for reproducibility; not part of thesis)
+data/dinov2_analysis/
+data/image_classifier_al/
+data/siglip_analysis/
+data/i2t_31matched_analysis/
+scripts/dinov2_analysis.py
+scripts/image_classifier_al.py
+scripts/siglip_analysis.py
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo

@@ -1,0 +1,60 @@
+{
+  "source": "jar 12 2failed bci passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:29:33",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_11_nc_S1.png",
+      "description": "A grey knob on a central post secures two white rectangular bars within grey brackets at a corner joint."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_11_nc_S2.png",
+      "description": "A light gray mechanical assembly features a cylindrical rod entering a housing that contains a circular disc and a rectangular block situated on a linear track."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_11_nc_S3.png",
+      "description": "A 3D rendering shows a mechanical assembly consisting of an inner toothed gear surrounded by spherical balls within an outer polygonal ring."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_11_nc_S4.png",
+      "description": "A stylized grey mechanical hand presses its thumb down onto a small, glowing, cracked cube resting on a curved base, with two large rings in the background."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_11_nc_S5.png",
+      "description": "Light grey geometric shapes are arranged in a symmetrical, radial pattern around a slightly illuminated central cluster on a white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_11_vc_S1.png",
+      "description": "Two grey mechanical clamps are holding three white cylindrical tubes between their textured jaws."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_11_vc_S2.png",
+      "description": "A monochromatic 3D rendering depicts a mechanical differential gear assembly with interlocking internal gears and extending shafts."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_11_vc_S3.png",
+      "description": "A cutaway view shows a static mechanical assembly containing a shaft with ball bearings located above a series of gears within a light-colored casing."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_11_vc_S4.png",
+      "description": "A close-up shows a gray, sculpted model featuring horizontal rods attached to a central block that connects to a vertical, threaded cylinder."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_11_vc_S5.png",
+      "description": "Various grey mechanical parts are arranged in a radiating circular pattern around a central cluster of white jointed components."
+    }
+  ]
+}

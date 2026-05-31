@@ -1,0 +1,60 @@
+{
+  "source": "jar 11 2failed bci passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:27:50",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_10_nc_S1.png",
+      "description": "A light-colored, interconnected structure features a curved arm passing through a ring situated above a central cylinder with rectangular side blocks."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_10_nc_S2.png",
+      "description": "A 3D rendering displays a light grey mechanical coupling assembly connecting a smooth shaft to a splined shaft."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_10_nc_S3.png",
+      "description": "An untextured, white 3D model of a mechanical structure with articulated legs and circular footpads stands stationary on a flat surface."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_10_nc_S4.png",
+      "description": "A 3D rendering shows a central grey disc positioned behind a white cylinder, flanked by a cluster of grey faceted blocks on the left and a structured assembly of white faceted blocks on the right."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_10_nc_S5.png",
+      "description": "A collection of various grey and white mechanical components is arranged symmetrically around a central handle-like object on a white background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_10_vc_S1.png",
+      "description": "A grey tool with a handle and threaded end is positioned above a white cylinder clamped in a vise."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_10_vc_S2.png",
+      "description": "Four separate panels display 3D renderings of mechanical components, specifically a cylinder, a mounting bracket, a vise clamping a rod, and a threaded shaft."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_10_vc_S3.png",
+      "description": "A grey tool with two suction cups connected by a central spring mechanism is displayed against a white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_10_vc_S4.png",
+      "description": "A grey, articulated mechanical arm holds a threaded cylindrical component suspended over a cracked white bowl resting in a base."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_10_vc_S5.png",
+      "description": "An assembled mechanical device sits in the center of a symmetrical arrangement of unassembled parts on sprues, casing pieces, brackets, and piles of small pellets on a white surface."
+    }
+  ]
+}

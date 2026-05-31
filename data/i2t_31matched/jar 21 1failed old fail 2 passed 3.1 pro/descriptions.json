@@ -1,0 +1,60 @@
+{
+  "source": "jar 21 1failed old fail 2 passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:46:29",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_20_nc_S1.png",
+      "description": "A white, faceted geometric shape is positioned between the open halves of a grey, two-part object with protruding handles."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_20_nc_S2.png",
+      "description": "A gray, untextured 3D rendering displays a mechanical assembly consisting of shafts, gears, and a central linkage joint against a white background."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_20_nc_S3.png",
+      "description": "A close-up shows a grey mechanical assembly where a vertical support is connected to horizontal rails by white, rounded joint components."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_20_nc_S4.png",
+      "description": "A cylindrical object on a stand faces a pointed arm extending from a block, with a tray containing small, angular fragments resting beneath the space between them."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_20_nc_S5.png",
+      "description": "A complex, multi-part grey 3D object is centered within a grid-like arrangement of simpler geometric shapes on a white background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_20_vc_S1.png",
+      "description": "A central cylindrical component with a clear middle section and threaded gray ends is positioned between two articulated gray mechanical arms with matching threaded connectors."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_20_vc_S2.png",
+      "description": "A grey model of a mechanical device with a hand crank and gears rests on a white surface."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_20_vc_S3.png",
+      "description": "A close-up shows a static structural assembly consisting of parallel metal rods connected by segmented, light-grey molded joints."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_20_vc_S4.png",
+      "description": "A mechanical linkage connects a handle and textured dial to a lever mechanism situated above a recessed tray holding liquid droplets."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_20_vc_S5.png",
+      "description": "Various light grey manufactured components and two piles of small beads are arranged symmetrically around a central interlocking square frame on a white surface."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+S1: A 3D rendering shows a grey mechanical carriage with a central wheel resting on a linear track.
+S2: A gray rendering shows a mechanical assembly featuring a spiked continuous track engaged with a sprocket wheel, located next to an angled, slatted ramp.
+S3: A multi-part plastic joint connects several smooth and ribbed cylindrical tubes at a central point.
+S4: A complex, grey mechanical assembly featuring gears, springs, and articulated arms rests on a spring-loaded base against a white background.
+S5: Disassembled mechanical parts are arranged in a symmetrical pattern around a central gear assembly on a white background.

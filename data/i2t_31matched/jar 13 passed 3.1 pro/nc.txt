@@ -1,0 +1,5 @@
+S1: A light grey 3D model features a central cylindrical pillar topped with a rounded cap that is breaking apart into several fragments.
+S2: A monochromatic 3D rendering displays a static mechanical assembly consisting of a cylindrical shaft, a central coupling joint, and a section resembling a crankshaft.
+S3: A plain, light gray 3D model of a hole punch rests on a white background.
+S4: A light grey mechanical arm with gears and three articulated fingers is positioned above a detached, slightly curved cylindrical component.
+S5: Various light grey mechanical components are arranged symmetrically around a central white X-shaped piece on a white background.

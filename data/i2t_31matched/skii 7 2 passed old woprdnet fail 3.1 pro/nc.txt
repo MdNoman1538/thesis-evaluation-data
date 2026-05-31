@@ -1,0 +1,5 @@
+S1: A grey 3D-rendered mechanical linkage, consisting of a crank arm connected to a rectangular slider block, is positioned on a white base.
+S2: Arrows point from a cluster of floating cubes toward the open pincers of a mechanical arm.
+S3: A grey 3D rendering depicts a mechanical pivot joint assembly mounted on two parallel rails.
+S4: A light grey, 3D-rendered mechanical assembly rests on a rectangular base, featuring a central pillar that connects a complex geometric claw on one side to parallel bars on the other.
+S5: A grey articulated mechanical component rests on a white surface, encircled by a radiating pattern of grey geometric shapes including straight rods and curved segments.

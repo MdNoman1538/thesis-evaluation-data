@@ -1,0 +1,60 @@
+{
+  "source": "jar 9 2failed bci passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:00:48",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_8_nc_S1.png",
+      "description": "A grey mechanical arm with an open, cylindrical claw is positioned around a glowing white sphere."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_8_nc_S2.png",
+      "description": "A mechanical arm attached to several wavy tubes holds a flat rectangular object next to two faceted cylinders."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_8_nc_S3.png",
+      "description": "A close-up shows a light grey mechanical hinge joint consisting of interlocking prongs connected by a central pin."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_8_nc_S4.png",
+      "description": "A monochromatic 3D rendering displays an abstract mechanical assembly featuring radiating beams attached to a central block, a ringed shaft, a spoked wheel, and a suspended sphere."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_8_nc_S5.png",
+      "description": "A variety of light grey mechanical parts, geometric shapes, and textured objects are neatly arranged on a white surface around a central clamp-like assembly."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_8_vc_S1.png",
+      "description": "A close-up shows a mechanical assembly with a toothed ring and metal linkages attached to a ribbed outer sleeve that is partially cut away to reveal a textured white inner core."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_8_vc_S2.png",
+      "description": "A white, ribbed cap on a cylindrical body is connected to a flexible, segmented strap via a hinged lever mechanism."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_8_vc_S3.png",
+      "description": "A grey mechanical device featuring two suction cup bases, textured straps, and dual hand cranks is displayed against a white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_8_vc_S4.png",
+      "description": "A light grey mechanical assembly features a central handle connecting two hinged arms to a gear mechanism, with a small container suspended underneath by thin wires."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_8_vc_S5.png",
+      "description": "A central gear mechanism is surrounded by molded grey casing parts, handles, and piles of small grey pellets arranged on a white surface."
+    }
+  ]
+}

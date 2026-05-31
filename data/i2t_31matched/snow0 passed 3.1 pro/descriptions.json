@@ -1,0 +1,60 @@
+{
+  "source": "snow0 passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:16:06",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_17_nc_S1.png",
+      "description": "A 3D rendering displays a light grey mechanical assembly featuring gears, a belt drive, and a scissor linkage mechanism holding a white cylinder."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_17_nc_S2.png",
+      "description": "A close-up shows a light grey, articulated mechanical joint assembly with adjustment knobs against a white background."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_17_nc_S3.png",
+      "description": "A grey 3D rendering shows a mechanical assembly where a gear meshes with a linear rack designed to slide along cylindrical rods."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_17_nc_S4.png",
+      "description": "A 3D rendering displays a grey mechanical assembly featuring an articulated linkage, a central cylinder with a weighted pivoting arm, and a sliding block holding a vertical plate on parallel rails."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_17_nc_S5.png",
+      "description": "A faceted white central object is surrounded by grey cylinders and rings radiating outwards on a plain background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_17_vc_S1.png",
+      "description": "A grey mechanical device with spiked tracks and gears is ascending a steep slope, kicking up debris."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_17_vc_S2.png",
+      "description": "A static, monochromatic 3D rendering displays a mechanical assembly that includes a splined shaft, a universal joint, a disc brake, and a toothed belt and pulley."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_17_vc_S3.png",
+      "description": "A close-up shows a grey mechanical assembly featuring a toothed gear engaged by ratcheting pawls and secured with bolts."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_17_vc_S4.png",
+      "description": "An untextured 3D rendering displays a mechanical assembly of bicycle components, including a brake lever, cables, a chain, a disc brake, and a kickstand, attached to a central cylindrical tube."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_17_vc_S5.png",
+      "description": "A central mechanical assembly is surrounded by symmetrically arranged metal pipes and gears on a white background."
+    }
+  ]
+}

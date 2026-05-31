@@ -1,0 +1,60 @@
+{
+  "source": "jar 15 2failed bci passed 3.1 pro",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:34:30",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_15_nc_S1.png",
+      "description": "A blank white can sits in a grey, geometric stand with an overhanging arm holding a circular piece just above the can's top."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_15_nc_S2.png",
+      "description": "A 3D rendering shows a gray mechanical linkage featuring a shaft, a universal joint, and a coil spring with stylized lines indicating rotation."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_15_nc_S3.png",
+      "description": "Three angled, corrugated cylindrical mounts with flat bases are arranged together to support an interlocking top structure against a white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_15_nc_S4.png",
+      "description": "A multi-pronged grey structure grips a faceted sphere next to a radiating arrangement of white, wedge-shaped forms."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_15_nc_S5.png",
+      "description": "Multiple light grey, three-dimensional arrows and geometric shapes are arranged to point inwards, converging on a central, faceted white object against a white background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_15_vc_S1.png",
+      "description": "A mechanical device with handles and a lever is shown with a segmented white cylinder partially inserted into its center and a detached threaded cap hovering directly above it."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_15_vc_S2.png",
+      "description": "A 3D rendering depicts a grey mechanical assembly consisting of a spring-loaded linkage connected to a geared hub and a rotating threaded shaft."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_15_vc_S3.png",
+      "description": "A light gray mechanical assembly featuring four suction-cup bases, four coiled springs, central gears, and two intertwined handles rests on a plain white surface."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_15_vc_S4.png",
+      "description": "A gray 3D rendering depicts a mechanical assembly featuring three cylindrical rods connecting to a central housing with a knurled wheel, opposite three articulated robotic fingers."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_15_vc_S5.png",
+      "description": "A light grey handgun frame is centrally displayed on a white surface, surrounded by a circular arrangement of various metal parts, ribbed plates, and piles of small pellets."
+    }
+  ]
+}
