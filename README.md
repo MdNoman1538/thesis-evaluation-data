@@ -43,7 +43,7 @@ evaluation/
 │   └── rejected_methods_log.md              methods explored but not used
 └── results/                           ← deterministic outputs
     ├── rq1/                                 final_results.{json,md}, figures/
-    ├── rq2/                                 rq2_slotwise_results.{json,md}, mat_files/, figures/
+    ├── rq2/                                 rq2_slotwise_results.{json,md}, rq2_paragraph_pooled.json, mat_files/, figures/
     ├── rq3/                                 per-pair and per-generation outputs
     └── imagen_prompts/                      paired_prompts.{jsonl,csv}, per_prompt.json
 ```
@@ -54,7 +54,8 @@ From the repository root:
 
 ```bash
 cd evaluation
-python3 scripts/evaluate_rq1_rq2_paragraph.py     # RQ1 + RQ2 paragraph
+python3 scripts/run_trimmed_analyses.py           # RQ1 + RQ2 paragraph (trimmed n=31, thesis numbers)
+python3 scripts/evaluate_rq1_rq2_paragraph.py     # RQ1 + RQ2 paragraph (full n=33, pre-trim provenance)
 python3 scripts/evaluate_rq1_semsim_cross_runs.py # RQ1 SBERT within / across task
 python3 scripts/produce_rq2_mat.py                # RQ2 .mat
 python3 scripts/evaluate_rq2_slotwise_trimmed.py  # RQ2 slot-wise pooled

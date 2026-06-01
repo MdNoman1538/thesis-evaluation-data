@@ -1,0 +1,23 @@
+{
+  "n_runs": 31,
+  "five_sentence_pass": [
+    31,
+    100.0
+  ],
+  "five_images_pass": [
+    31,
+    100.0
+  ],
+  "rule8_pass": [
+    31,
+    100.0
+  ],
+  "wn_order_pass": [
+    31,
+    100.0
+  ],
+  "brys_order_pass": [
+    31,
+    100.0
+  ]
+}
