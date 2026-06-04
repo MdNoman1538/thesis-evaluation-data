@@ -37,7 +37,7 @@
     }
   },
   "per_source": {
-    "jar 13 passed 3.1 pro": {
+    "jar 13 passed": {
       "i2t_nc__own_nc": {
         "n": 10,
         "mean": 0.15581541284918785,
@@ -102,7 +102,7 @@
         "max": 0.2260492742061615
       }
     },
-    "jar 7 passed 3.1 pro": {
+    "jar 7 passed": {
       "i2t_nc__own_nc": {
         "n": 10,
         "mean": 0.25694716423749925,
@@ -167,7 +167,7 @@
         "max": 0.3072134256362915
       }
     },
-    "skii 5 passed 3.1 pro": {
+    "skii 5 passed": {
       "i2t_nc__own_nc": {
         "n": 10,
         "mean": 0.2139636054635048,

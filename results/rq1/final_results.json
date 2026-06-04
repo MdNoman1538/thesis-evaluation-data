@@ -114,7 +114,7 @@
     {
       "task": "jar",
       "run_no": 1,
-      "folder": "jar 1 2failed bci passed 3.1",
+      "folder": "jar 1 pvalue failed",
       "clean_pass": false,
       "nc_words": 128,
       "vc_words": 128,
@@ -136,7 +136,7 @@
     {
       "task": "jar",
       "run_no": 10,
-      "folder": "jar 10 2failed bci passed 3.1 pro",
+      "folder": "jar 10 pvalue failed",
       "clean_pass": false,
       "nc_words": 116,
       "vc_words": 116,
@@ -158,7 +158,7 @@
     {
       "task": "jar",
       "run_no": 11,
-      "folder": "jar 11 2failed bci passed 3.1 pro",
+      "folder": "jar 11 pvalue failed",
       "clean_pass": false,
       "nc_words": 123,
       "vc_words": 123,
@@ -180,7 +180,7 @@
     {
       "task": "jar",
       "run_no": 12,
-      "folder": "jar 12 2failed bci passed 3.1 pro",
+      "folder": "jar 12 pvalue failed",
       "clean_pass": false,
       "nc_words": 124,
       "vc_words": 124,
@@ -202,7 +202,7 @@
     {
       "task": "jar",
       "run_no": 13,
-      "folder": "jar 13 passed 3.1 pro",
+      "folder": "jar 13 passed",
       "clean_pass": true,
       "nc_words": 133,
       "vc_words": 133,
@@ -224,7 +224,7 @@
     {
       "task": "jar",
       "run_no": 14,
-      "folder": "jar 14 2failed bci passed 3.1 pro",
+      "folder": "jar 14 pvalue failed",
       "clean_pass": false,
       "nc_words": 127,
       "vc_words": 127,
@@ -246,7 +246,7 @@
     {
       "task": "jar",
       "run_no": 15,
-      "folder": "jar 15 2failed bci passed 3.1 pro",
+      "folder": "jar 15 pvalue failed",
       "clean_pass": false,
       "nc_words": 111,
       "vc_words": 111,
@@ -268,7 +268,7 @@
     {
       "task": "jar",
       "run_no": 16,
-      "folder": "jar 16 passed 3.1 pro",
+      "folder": "jar 16 passed",
       "clean_pass": true,
       "nc_words": 116,
       "vc_words": 116,
@@ -290,7 +290,7 @@
     {
       "task": "jar",
       "run_no": 17,
-      "folder": "jar 17 1 failed new 2 passed 3.1 pro",
+      "folder": "jar 17 passed",
       "clean_pass": true,
       "nc_words": 124,
       "vc_words": 124,
@@ -312,7 +312,7 @@
     {
       "task": "jar",
       "run_no": 18,
-      "folder": "jar 18 2failed bci passed 3.1 pro",
+      "folder": "jar 18 pvalue failed",
       "clean_pass": false,
       "nc_words": 128,
       "vc_words": 128,
@@ -334,7 +334,7 @@
     {
       "task": "jar",
       "run_no": 18,
-      "folder": "jar 18 passed 3.1 pro",
+      "folder": "jar 22 passed",
       "clean_pass": true,
       "nc_words": 130,
       "vc_words": 132,
@@ -356,7 +356,7 @@
     {
       "task": "jar",
       "run_no": 2,
-      "folder": "jar 2 bad  2failed bci passed 3.1 ",
+      "folder": "jar 2 pvalue failed",
       "clean_pass": false,
       "nc_words": 123,
       "vc_words": 123,
@@ -378,7 +378,7 @@
     {
       "task": "jar",
       "run_no": 20,
-      "folder": "jar 20 2failed bci passed 3.1 pro",
+      "folder": "jar 20 pvalue failed",
       "clean_pass": false,
       "nc_words": 131,
       "vc_words": 131,
@@ -400,7 +400,7 @@
     {
       "task": "jar",
       "run_no": 21,
-      "folder": "jar 21 1failed old fail 2 passed 3.1 pro",
+      "folder": "jar 21 pvalue failed",
       "clean_pass": true,
       "nc_words": 121,
       "vc_words": 121,
@@ -422,7 +422,7 @@
     {
       "task": "jar",
       "run_no": 22,
-      "folder": "jar 22 2failed bci passed 3.1 pro",
+      "folder": "jar 19 pvalue failed",
       "clean_pass": false,
       "nc_words": 126,
       "vc_words": 126,
@@ -444,7 +444,7 @@
     {
       "task": "jar",
       "run_no": 3,
-      "folder": "jar 3 2failed bci passed 3.1",
+      "folder": "jar 3 pvalue failed",
       "clean_pass": false,
       "nc_words": 121,
       "vc_words": 121,
@@ -466,7 +466,7 @@
     {
       "task": "jar",
       "run_no": 4,
-      "folder": "jar 4 passed 3.1",
+      "folder": "jar 4 passed",
       "clean_pass": true,
       "nc_words": 122,
       "vc_words": 122,
@@ -488,7 +488,7 @@
     {
       "task": "jar",
       "run_no": 5,
-      "folder": "jar 5 2failed bci passed 3.1",
+      "folder": "jar 5 pvalue failed",
       "clean_pass": false,
       "nc_words": 109,
       "vc_words": 109,
@@ -510,7 +510,7 @@
     {
       "task": "jar",
       "run_no": 6,
-      "folder": "jar 6 2failed bci passed 3.1",
+      "folder": "jar 6 pvalue failed",
       "clean_pass": false,
       "nc_words": 126,
       "vc_words": 126,
@@ -532,7 +532,7 @@
     {
       "task": "jar",
       "run_no": 7,
-      "folder": "jar 7 passed 3.1 pro",
+      "folder": "jar 7 passed",
       "clean_pass": true,
       "nc_words": 111,
       "vc_words": 111,
@@ -554,7 +554,7 @@
     {
       "task": "jar",
       "run_no": 8,
-      "folder": "jar 8 bad image 2failed bci passed 3.1 pro",
+      "folder": "jar 8 pvalue failed",
       "clean_pass": false,
       "nc_words": 119,
       "vc_words": 119,
@@ -576,7 +576,7 @@
     {
       "task": "jar",
       "run_no": 9,
-      "folder": "jar 9 2failed bci passed 3.1 pro",
+      "folder": "jar 9 pvalue failed",
       "clean_pass": false,
       "nc_words": 123,
       "vc_words": 142,
@@ -598,7 +598,7 @@
     {
       "task": "skii",
       "run_no": 1,
-      "folder": "skii 01 bci only passed 3.1 pro ",
+      "folder": "skii 1 pvalue failed",
       "clean_pass": true,
       "nc_words": 120,
       "vc_words": 120,
@@ -642,7 +642,7 @@
     {
       "task": "skii",
       "run_no": 2,
-      "folder": "skii 2 passed 3.1",
+      "folder": "skii 2 passed",
       "clean_pass": true,
       "nc_words": 123,
       "vc_words": 123,
@@ -664,7 +664,7 @@
     {
       "task": "skii",
       "run_no": 3,
-      "folder": "skii 3 passed but new wordnet fail 3.1",
+      "folder": "skii 3 passed",
       "clean_pass": false,
       "nc_words": 121,
       "vc_words": 121,
@@ -686,7 +686,7 @@
     {
       "task": "skii",
       "run_no": 4,
-      "folder": "skii 4 passed 3.1",
+      "folder": "skii 4 passed",
       "clean_pass": true,
       "nc_words": 128,
       "vc_words": 128,
@@ -708,7 +708,7 @@
     {
       "task": "skii",
       "run_no": 5,
-      "folder": "skii 5 passed 3.1 pro",
+      "folder": "skii 5 passed",
       "clean_pass": true,
       "nc_words": 118,
       "vc_words": 118,
@@ -730,7 +730,7 @@
     {
       "task": "skii",
       "run_no": 6,
-      "folder": "skii 6 passed 3.1 pro",
+      "folder": "skii 6 passed",
       "clean_pass": true,
       "nc_words": 117,
       "vc_words": 117,
@@ -752,7 +752,7 @@
     {
       "task": "skii",
       "run_no": 7,
-      "folder": "skii 7 2 passed old woprdnet fail 3.1 pro",
+      "folder": "skii 7 pvalue failed",
       "clean_pass": true,
       "nc_words": 125,
       "vc_words": 125,
@@ -774,7 +774,7 @@
     {
       "task": "skii",
       "run_no": 8,
-      "folder": "skii 8 2failed bci passed 3.1 pro",
+      "folder": "skii 8 pvalue failed",
       "clean_pass": false,
       "nc_words": 117,
       "vc_words": 117,
@@ -796,7 +796,7 @@
     {
       "task": "skii",
       "run_no": 3,
-      "folder": "snow0 passed 3.1 pro",
+      "folder": "skii 9 passed",
       "clean_pass": true,
       "nc_words": 123,
       "vc_words": 123,

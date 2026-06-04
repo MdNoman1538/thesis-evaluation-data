@@ -1,0 +1,60 @@
+{
+  "source": "skii 2 passed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:04:09",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_19_nc_S1.png",
+      "description": "A 3D-rendered image displays a faceted grey housing with a central white cylinder, connected to a white rectangular block by a linkage arm and a strap wrapped around a circular hub."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_19_nc_S2.png",
+      "description": "A collection of light grey geometric shapes, including blocks, cylinders, and angled pieces, is arranged together on a white surface."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_19_nc_S3.png",
+      "description": "Three flat, light grey polygonal plates are interconnected by a central triangular framework of faceted struts and curved supports."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_19_nc_S4.png",
+      "description": "An abstract, light grey 3D rendering depicts a layered, bottle-like structure with multiple rectangular rods protruding outward from its narrow, collared end."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_19_nc_S5.png",
+      "description": "Various light grey mechanical components, including brackets, gears, springs, and plates, are arranged symmetrically around a central cylindrical object on a white background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_19_vc_S1.png",
+      "description": "A close-up view of a mechanical assembly shows a pedal-driven toothed belt mechanism next to a segmented tire and a vertical strut with a cutaway revealing an internal cylinder."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_19_vc_S2.png",
+      "description": "A mechanical device dispenses small round pellets from a channel that is connected by toothed belts to a pair of brake calipers."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_19_vc_S3.png",
+      "description": "A 3D model shows a roller chain routed through a framework of cylindrical tubes attached to a base plate."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_19_vc_S4.png",
+      "description": "A grey mechanical model featuring a scissor linkage, a knurled central cylinder, and parallel extending rods rests on a bell-shaped support against a white background."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_19_vc_S5.png",
+      "description": "A collection of unassembled mechanical parts, including a central gear assembly, levers, bearings, fasteners, and a track section, is neatly arranged on a plain white surface."
+    }
+  ]
+}

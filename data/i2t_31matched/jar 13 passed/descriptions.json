@@ -1,0 +1,60 @@
+{
+  "source": "jar 13 passed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:31:09",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_12_nc_S1.png",
+      "description": "A light grey 3D model features a central cylindrical pillar topped with a rounded cap that is breaking apart into several fragments."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_12_nc_S2.png",
+      "description": "A monochromatic 3D rendering displays a static mechanical assembly consisting of a cylindrical shaft, a central coupling joint, and a section resembling a crankshaft."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_12_nc_S3.png",
+      "description": "A plain, light gray 3D model of a hole punch rests on a white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_12_nc_S4.png",
+      "description": "A light grey mechanical arm with gears and three articulated fingers is positioned above a detached, slightly curved cylindrical component."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_12_nc_S5.png",
+      "description": "Various light grey mechanical components are arranged symmetrically around a central white X-shaped piece on a white background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_12_vc_S1.png",
+      "description": "A light grey mechanical stand with a central pole and a segmented base resting on ribbed feet features a broken threaded collar."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_12_vc_S2.png",
+      "description": "A light grey mechanical assembly featuring a textured knob, articulated joints, and circular pads is shown with a threaded cap detached on the right side."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_12_vc_S3.png",
+      "description": "A close-up shows a grey mechanical hinge connecting two molded handles to a flat, textured rectangular base."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_12_vc_S4.png",
+      "description": "A mechanical hand assembly is connected to a disassembled cylindrical structure featuring separated threaded rings and a cracked base."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_12_vc_S5.png",
+      "description": "An assembled mechanical device with exposed gears is centered among its disassembled casing parts and various individual gears arranged on a white background."
+    }
+  ]
+}

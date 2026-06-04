@@ -1,0 +1,60 @@
+{
+  "source": "jar 8 pvalue failed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:59:07",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_7_nc_S1.png",
+      "description": "A grey, angular helmet rests tilted backwards on a smooth, white spherical head attached to a grey base."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_7_nc_S2.png",
+      "description": "A 3D rendering shows a faceted shaft pressing into a central wedge mechanism that connects to a geared cylinder, with curved lines radiating from the cylinder's right end."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_7_nc_S3.png",
+      "description": "A close-up view displays a white, 3D-rendered mechanical joint consisting of a central circular hub connected to two angled arms."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_7_nc_S4.png",
+      "description": "A 3D rendering shows a fluted cylindrical shaft with a tapered end inserted into a slotted rectangular block, with a white ring floating below."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_7_nc_S5.png",
+      "description": "Smooth, grey geometric shapes are arranged in a symmetrical, radiating pattern around a central six-pronged hub on a white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_7_vc_S1.png",
+      "description": "A robotic hand grips the threaded end of a cylindrical component attached to another robotic arm."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_7_vc_S2.png",
+      "description": "A detailed, untextured 3D render shows a complex mechanical assembly featuring gears, springs, and articulated linkages."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_7_vc_S3.png",
+      "description": "A grey mechanical assembly features a central toothed gear resting on segmented pads, with two hinged metal arms attached to a central shaft above it."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_7_vc_S4.png",
+      "description": "A grey mechanical assembly featuring a textured handle, threaded components, and a separate base piece is shown with a circular arrow indicating rotational movement on the left end of the shaft."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_7_vc_S5.png",
+      "description": "A white, gun-shaped mechanical model is surrounded by grey plastic brackets and rectangular casings on a white background."
+    }
+  ]
+}

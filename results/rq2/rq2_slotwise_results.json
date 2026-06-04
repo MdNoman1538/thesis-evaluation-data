@@ -249,7 +249,7 @@
   },
   "per_run": [
     {
-      "folder": "source_jar_10_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_10_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7246,
       "avg_al_vc": 0.699,
@@ -258,7 +258,7 @@
       "ttest_p": 0.112101
     },
     {
-      "folder": "source_jar_11_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_11_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7384,
       "avg_al_vc": 0.712,
@@ -267,7 +267,7 @@
       "ttest_p": 0.227561
     },
     {
-      "folder": "source_jar_12_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_12_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7514,
       "avg_al_vc": 0.7138,
@@ -276,7 +276,7 @@
       "ttest_p": 0.053144
     },
     {
-      "folder": "source_jar_13_passed_3_1_pro",
+      "folder": "source_jar_13_passed",
       "task": "jar",
       "avg_al_nc": 0.7368,
       "avg_al_vc": 0.697,
@@ -285,7 +285,7 @@
       "ttest_p": 0.013158
     },
     {
-      "folder": "source_jar_14_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_14_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7281,
       "avg_al_vc": 0.7068,
@@ -294,7 +294,7 @@
       "ttest_p": 0.397302
     },
     {
-      "folder": "source_jar_15_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_15_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7414,
       "avg_al_vc": 0.7137,
@@ -303,7 +303,7 @@
       "ttest_p": 0.112654
     },
     {
-      "folder": "source_jar_16_passed_3_1_pro",
+      "folder": "source_jar_16_passed",
       "task": "jar",
       "avg_al_nc": 0.7724,
       "avg_al_vc": 0.6966,
@@ -312,7 +312,7 @@
       "ttest_p": 0.000211
     },
     {
-      "folder": "source_jar_17_1_failed_new_2_passed_3_1_pro",
+      "folder": "source_jar_17_passed",
       "task": "jar",
       "avg_al_nc": 0.7659,
       "avg_al_vc": 0.715,
@@ -321,7 +321,7 @@
       "ttest_p": 0.00644
     },
     {
-      "folder": "source_jar_18_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_18_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7406,
       "avg_al_vc": 0.6932,
@@ -330,7 +330,7 @@
       "ttest_p": 0.091248
     },
     {
-      "folder": "source_jar_18_passed_3_1_pro",
+      "folder": "source_jar_22_passed",
       "task": "jar",
       "avg_al_nc": 0.7496,
       "avg_al_vc": 0.6725,
@@ -339,7 +339,7 @@
       "ttest_p": 0.000355
     },
     {
-      "folder": "source_jar_1_2failed_bci_passed_3_1",
+      "folder": "source_jar_1_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7368,
       "avg_al_vc": 0.7193,
@@ -348,7 +348,7 @@
       "ttest_p": 0.460673
     },
     {
-      "folder": "source_jar_20_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_20_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7416,
       "avg_al_vc": 0.7181,
@@ -357,7 +357,7 @@
       "ttest_p": 0.259085
     },
     {
-      "folder": "source_jar_21_1failed_old_fail_2_passed_3_1_pro",
+      "folder": "source_jar_21_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7659,
       "avg_al_vc": 0.7119,
@@ -366,7 +366,7 @@
       "ttest_p": 0.057925
     },
     {
-      "folder": "source_jar_22_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_19_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7504,
       "avg_al_vc": 0.7105,
@@ -375,7 +375,7 @@
       "ttest_p": 0.084199
     },
     {
-      "folder": "source_jar_2_bad_2failed_bci_passed_3_1",
+      "folder": "source_jar_2_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7401,
       "avg_al_vc": 0.7193,
@@ -384,7 +384,7 @@
       "ttest_p": 0.366603
     },
     {
-      "folder": "source_jar_3_2failed_bci_passed_3_1",
+      "folder": "source_jar_3_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7384,
       "avg_al_vc": 0.7145,
@@ -393,7 +393,7 @@
       "ttest_p": 0.331103
     },
     {
-      "folder": "source_jar_4_passed_3_1",
+      "folder": "source_jar_4_passed",
       "task": "jar",
       "avg_al_nc": 0.7509,
       "avg_al_vc": 0.6881,
@@ -402,7 +402,7 @@
       "ttest_p": 0.002071
     },
     {
-      "folder": "source_jar_5_2failed_bci_passed_3_1",
+      "folder": "source_jar_5_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7444,
       "avg_al_vc": 0.6995,
@@ -411,7 +411,7 @@
       "ttest_p": 0.155645
     },
     {
-      "folder": "source_jar_6_2failed_bci_passed_3_1",
+      "folder": "source_jar_6_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7158,
       "avg_al_vc": 0.7134,
@@ -420,7 +420,7 @@
       "ttest_p": 0.865122
     },
     {
-      "folder": "source_jar_7_passed_3_1_pro",
+      "folder": "source_jar_7_passed",
       "task": "jar",
       "avg_al_nc": 0.7384,
       "avg_al_vc": 0.6842,
@@ -429,7 +429,7 @@
       "ttest_p": 0.002207
     },
     {
-      "folder": "source_jar_8_bad_image_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_8_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7244,
       "avg_al_vc": 0.6959,
@@ -438,7 +438,7 @@
       "ttest_p": 0.600126
     },
     {
-      "folder": "source_jar_9_2failed_bci_passed_3_1_pro",
+      "folder": "source_jar_9_pvalue_failed",
       "task": "jar",
       "avg_al_nc": 0.7209,
       "avg_al_vc": 0.7086,
@@ -447,7 +447,7 @@
       "ttest_p": 0.614041
     },
     {
-      "folder": "source_skii_01_bci_only_passed_3_1_pro",
+      "folder": "source_skii_1_pvalue_failed",
       "task": "skii",
       "avg_al_nc": 0.7464,
       "avg_al_vc": 0.7119,
@@ -456,7 +456,7 @@
       "ttest_p": 0.159475
     },
     {
-      "folder": "source_skii_2_passed_3_1",
+      "folder": "source_skii_2_passed",
       "task": "skii",
       "avg_al_nc": 0.743,
       "avg_al_vc": 0.697,
@@ -465,7 +465,7 @@
       "ttest_p": 0.010973
     },
     {
-      "folder": "source_skii_3_passed_but_new_wordnet_fail_3_1",
+      "folder": "source_skii_3_passed",
       "task": "skii",
       "avg_al_nc": 0.7523,
       "avg_al_vc": 0.6935,
@@ -474,7 +474,7 @@
       "ttest_p": 0.004153
     },
     {
-      "folder": "source_skii_4_passed_3_1",
+      "folder": "source_skii_4_passed",
       "task": "skii",
       "avg_al_nc": 0.7539,
       "avg_al_vc": 0.6789,
@@ -483,7 +483,7 @@
       "ttest_p": 0.000621
     },
     {
-      "folder": "source_skii_5_passed_3_1_pro",
+      "folder": "source_skii_5_passed",
       "task": "skii",
       "avg_al_nc": 0.7599,
       "avg_al_vc": 0.709,
@@ -492,7 +492,7 @@
       "ttest_p": 0.025018
     },
     {
-      "folder": "source_skii_6_passed_3_1_pro",
+      "folder": "source_skii_6_passed",
       "task": "skii",
       "avg_al_nc": 0.7386,
       "avg_al_vc": 0.7072,
@@ -501,7 +501,7 @@
       "ttest_p": 0.037572
     },
     {
-      "folder": "source_skii_7_2_passed_old_woprdnet_fail_3_1_pro",
+      "folder": "source_skii_7_pvalue_failed",
       "task": "skii",
       "avg_al_nc": 0.7474,
       "avg_al_vc": 0.7074,
@@ -510,7 +510,7 @@
       "ttest_p": 0.172394
     },
     {
-      "folder": "source_skii_8_2failed_bci_passed_3_1_pro",
+      "folder": "source_skii_8_pvalue_failed",
       "task": "skii",
       "avg_al_nc": 0.7436,
       "avg_al_vc": 0.706,
@@ -519,7 +519,7 @@
       "ttest_p": 0.090436
     },
     {
-      "folder": "source_snow0_passed_3_1_pro",
+      "folder": "source_skii_9_passed",
       "task": "skii",
       "avg_al_nc": 0.757,
       "avg_al_vc": 0.6934,

@@ -1,0 +1,60 @@
+{
+  "source": "skii 7 pvalue failed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:12:43",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_24_nc_S1.png",
+      "description": "A grey 3D-rendered mechanical linkage, consisting of a crank arm connected to a rectangular slider block, is positioned on a white base."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_24_nc_S2.png",
+      "description": "Arrows point from a cluster of floating cubes toward the open pincers of a mechanical arm."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_24_nc_S3.png",
+      "description": "A grey 3D rendering depicts a mechanical pivot joint assembly mounted on two parallel rails."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_24_nc_S4.png",
+      "description": "A light grey, 3D-rendered mechanical assembly rests on a rectangular base, featuring a central pillar that connects a complex geometric claw on one side to parallel bars on the other."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_24_nc_S5.png",
+      "description": "A grey articulated mechanical component rests on a white surface, encircled by a radiating pattern of grey geometric shapes including straight rods and curved segments."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_24_vc_S1.png",
+      "description": "A light grey mechanical hand grips a textured handle above a pile of white powder."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_24_vc_S2.png",
+      "description": "A mechanical drive assembly is shown, featuring a continuous track connected to a cluster of gears by a toothed belt and a tubular framework."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_24_vc_S3.png",
+      "description": "A detailed, monochromatic rendering shows a mechanical track system featuring interlocking plates, gears, and springs."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_24_vc_S4.png",
+      "description": "A grey mechanical assembly with multiple linkage arms and a universal joint is positioned above a rectangular block displaying a tire track texture."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_24_vc_S5.png",
+      "description": "A complex assembled mechanical linkage sits in the center of a white surface, surrounded by multiple unassembled grey metal brackets and slotted extrusions."
+    }
+  ]
+}

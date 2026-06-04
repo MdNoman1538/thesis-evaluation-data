@@ -288,7 +288,7 @@ fig, ax = plt.subplots(figsize=(11, 4))
 bars = ax.bar(xs, ys, color=['#E08B4A' if y < 0 else '#4C9AC4' for y in ys], edgecolor='#222', linewidth=0.5)
 ax.axhline(0, color='black', linewidth=0.8)
 ax.set_xticks(xs); ax.set_xticklabels([f"$N_{{{i}}}$" for i in xs], fontsize=8, rotation=0)
-ax.set_ylabel("Mean Δ AL (NC − VC)")
+ax.set_ylabel("Mean Δ AL (abstract − concrete)")
 ax.set_title(f"RQ2 per-slot mean abstraction delta — trimmed corpus (n={n_runs})")
 ax.grid(axis='y', alpha=0.3, linestyle=':')
 plt.tight_layout()
@@ -300,7 +300,7 @@ fig, ax = plt.subplots(figsize=(8, 4))
 ax.hist(DD, bins=40, color='#4C9AC4', edgecolor='#222', linewidth=0.5)
 ax.axvline(0, color='black', linewidth=0.8)
 ax.axvline(float(np.mean(DD)), color='red', linewidth=1.5, linestyle='--', label=f'mean = {float(np.mean(DD)):+.4f}')
-ax.set_xlabel("Per-slot delta (NC AL − VC AL)")
+ax.set_xlabel("Per-slot delta (abstract AL − concrete AL)")
 ax.set_ylabel("Count of slot pairs")
 ax.set_title(f"Distribution of per-slot deltas — trimmed corpus ({len(pooled_pairs)} pairs)")
 ax.legend()
@@ -311,11 +311,11 @@ print("  figures written.")
 
 # Paragraph-level box plot
 fig, axes = plt.subplots(1, 2, figsize=(10, 4))
-axes[0].boxplot([all_nc_br, all_vc_br], tick_labels=['NC','VC'], patch_artist=True,
+axes[0].boxplot([all_nc_br, all_vc_br], tick_labels=['abstract','concrete'], patch_artist=True,
                 boxprops=dict(facecolor='#4C9AC4', alpha=0.7))
 axes[0].set_ylabel("Brysbaert (1–5)")
 axes[0].set_title(f"Brysbaert paragraph means (n={n_runs})")
-axes[1].boxplot([all_nc_wn, all_vc_wn], tick_labels=['NC','VC'], patch_artist=True,
+axes[1].boxplot([all_nc_wn, all_vc_wn], tick_labels=['abstract','concrete'], patch_artist=True,
                 boxprops=dict(facecolor='#4C9AC4', alpha=0.7))
 axes[1].set_ylabel("WordNet AL (0–1)")
 axes[1].set_title(f"WordNet AL paragraph means (n={n_runs})")

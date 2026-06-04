@@ -1,0 +1,60 @@
+{
+  "source": "jar 4 passed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:51:59",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_3_nc_S1.png",
+      "description": "A light grey, segmented ring structure is shown with one of its curved sections hinged open."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_3_nc_S2.png",
+      "description": "Inside an open, geometric housing, two robotic arms press down on a line of individual blocks that transition into a continuous, twisted ribbon."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_3_nc_S3.png",
+      "description": "A close-up view shows an untextured, grey 3D model of a mechanical linkage consisting of interconnected rods, hinges, and base plates with rounded protrusions."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_3_nc_S4.png",
+      "description": "A light gray 3D rendering shows a static assembly consisting of a rectangular block connected by a rod to a central cylindrical hub, from which an angled arm and two parallel, split rings extend."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_3_nc_S5.png",
+      "description": "A central white component is surrounded by eight identical bracket-shaped parts and radiating lines of small cylindrical pegs arranged on a white background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_3_vc_S1.png",
+      "description": "A close-up displays a mechanical assembly consisting of interlocking gears, metal linkages, and grey structural parts surrounding a central white component."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_3_vc_S2.png",
+      "description": "A grey model illustrates a mechanical joint connecting a segmented shaft to a threaded rod via a central housing containing meshed gears and linkages."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_3_vc_S3.png",
+      "description": "A monochrome 3D rendering displays a mechanical assembly featuring a four-armed crank mechanism and a hovering cap positioned above four pipe fittings resting on wood-textured blocks."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_3_vc_S4.png",
+      "description": "A mechanical assembly is shown featuring a pedal connected by linkages to a spring-loaded shaft with gears, mounted on a base bracket."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_3_vc_S5.png",
+      "description": "A central metal gear mechanism is surrounded by disassembled grey plastic housing components and screws arranged in a radial pattern on a white background."
+    }
+  ]
+}

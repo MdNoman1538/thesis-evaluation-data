@@ -1,0 +1,60 @@
+{
+  "source": "jar 1 pvalue failed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:24:30",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_nc_S1.png",
+      "description": "A low-poly 3D model of a white cylinder with a grey top handle and segmented grey rings is displayed against a white background."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_nc_S2.png",
+      "description": "A grey, 3D-rendered mechanical linkage connects a single shaft to two parallel arms featuring rectangular blocks."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_nc_S3.png",
+      "description": "A mechanical joint connects a forked arm to a base block via a cylindrical pin, with thick wire coiled around the arm and looped onto the base."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_nc_S4.png",
+      "description": "A 3D rendering shows an exploded view of a mechanical assembly featuring a grey faceted shaft, white contoured connectors, a metallic ring, and a flanged base."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_nc_S5.png",
+      "description": "A central white rectangular mechanism containing gears is surrounded by concentric rings of white geometric blocks and metallic connecting rods."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_vc_S1.png",
+      "description": "A mechanical gripper is holding a translucent cylindrical object."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_vc_S2.png",
+      "description": "A monochromatic 3D rendering displays a mechanical assembly featuring interconnected gears, a track, a coiled spring, and a lever connected to a threaded rod."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_vc_S3.png",
+      "description": "A grey mechanical model displays two coiled springs attached to a system of interlocking gears and a connecting arm, all resting on a base plate with four stepped feet."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_vc_S4.png",
+      "description": "Separated grey mechanical components are shown alongside a smaller, broken cylindrical piece."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_vc_S5.png",
+      "description": "A white mechanical device with exposed gears is surrounded by a circular arrangement of plastic handles, molded parts on sprues, and piles of plastic pellets."
+    }
+  ]
+}

@@ -45,23 +45,23 @@ Comparison: i2t-derived NC/VC stimuli (n=10) vs the source's original NC/VC text
 
 | Source | n | metric | source text | i2t mean ± SD | drift (i2t mean − source) | order NC<VC pass |
 |---|---|---|---|---|---|---|
-| jar 13 passed 3.1 pro | 10 | Brys NC | 3.175 | 3.905 ± 0.113 | +0.730 | 80% |
-| jar 13 passed 3.1 pro | 10 | WN NC | 6.116 | 5.888 ± 0.098 | -0.229 | — |
-| jar 13 passed 3.1 pro | 10 | Brys VC | 4.090 | 3.985 ± 0.039 | -0.106 | 80% |
-| jar 13 passed 3.1 pro | 10 | WN VC | 6.804 | 5.968 ± 0.130 | -0.836 | — |
-| jar 7 passed 3.1 pro | 10 | Brys NC | 3.007 | 3.590 ± 0.074 | +0.583 | 100% |
-| jar 7 passed 3.1 pro | 10 | WN NC | 6.053 | 5.054 ± 0.093 | -0.999 | — |
-| jar 7 passed 3.1 pro | 10 | Brys VC | 4.322 | 3.923 ± 0.058 | -0.399 | 100% |
-| jar 7 passed 3.1 pro | 10 | WN VC | 7.070 | 6.202 ± 0.120 | -0.868 | — |
-| skii 5 passed 3.1 pro | 10 | Brys NC | 2.950 | 3.929 ± 0.045 | +0.979 | 50% |
-| skii 5 passed 3.1 pro | 10 | WN NC | 5.737 | 5.492 ± 0.083 | -0.244 | — |
-| skii 5 passed 3.1 pro | 10 | Brys VC | 4.023 | 3.914 ± 0.063 | -0.109 | 50% |
-| skii 5 passed 3.1 pro | 10 | WN VC | 6.487 | 6.357 ± 0.077 | -0.130 | — |
+| jar 13 passed | 10 | Brys NC | 3.175 | 3.905 ± 0.113 | +0.730 | 80% |
+| jar 13 passed | 10 | WN NC | 6.116 | 5.888 ± 0.098 | -0.229 | — |
+| jar 13 passed | 10 | Brys VC | 4.090 | 3.985 ± 0.039 | -0.106 | 80% |
+| jar 13 passed | 10 | WN VC | 6.804 | 5.968 ± 0.130 | -0.836 | — |
+| jar 7 passed | 10 | Brys NC | 3.007 | 3.590 ± 0.074 | +0.583 | 100% |
+| jar 7 passed | 10 | WN NC | 6.053 | 5.054 ± 0.093 | -0.999 | — |
+| jar 7 passed | 10 | Brys VC | 4.322 | 3.923 ± 0.058 | -0.399 | 100% |
+| jar 7 passed | 10 | WN VC | 7.070 | 6.202 ± 0.120 | -0.868 | — |
+| skii 5 passed | 10 | Brys NC | 2.950 | 3.929 ± 0.045 | +0.979 | 50% |
+| skii 5 passed | 10 | WN NC | 5.737 | 5.492 ± 0.083 | -0.244 | — |
+| skii 5 passed | 10 | Brys VC | 4.023 | 3.914 ± 0.063 | -0.109 | 50% |
+| skii 5 passed | 10 | WN VC | 6.487 | 6.357 ± 0.077 | -0.130 | — |
 
 ## Word count drift (for reference)
 
 | Source | source NC words | i2t NC words mean ± SD | source VC words | i2t VC words mean ± SD |
 |---|---|---|---|---|
-| jar 13 passed 3.1 pro | 133 | 88.3 ± 5.0 | 133 | 106.1 ± 5.3 |
-| jar 7 passed 3.1 pro | 111 | 88.0 ± 4.5 | 111 | 97.0 ± 2.2 |
-| skii 5 passed 3.1 pro | 118 | 110.2 ± 2.3 | 118 | 92.9 ± 2.5 |
+| jar 13 passed | 133 | 88.3 ± 5.0 | 133 | 106.1 ± 5.3 |
+| jar 7 passed | 111 | 88.0 ± 4.5 | 111 | 97.0 ± 2.2 |
+| skii 5 passed | 118 | 110.2 ± 2.3 | 118 | 92.9 ± 2.5 |

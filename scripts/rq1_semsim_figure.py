@@ -35,12 +35,12 @@ def within(v): return [float(np.dot(v[i],v[j])) for i,j in combinations(range(le
 def cross(a,b): return [float(np.dot(a[i],b[j])) for i,j in product(range(len(a)),range(len(b)))]
 
 cells = [
-    ("jar NC × jar NC\n(within-task)",     within(emb[("jar","nc")]), "within"),
-    ("jar VC × jar VC\n(within-task)",     within(emb[("jar","vc")]), "within"),
-    ("skii NC × skii NC\n(within-task)",   within(emb[("skii","nc")]), "within"),
-    ("skii VC × skii VC\n(within-task)",   within(emb[("skii","vc")]), "within"),
-    ("jar NC × skii NC\n(cross-task)",     cross(emb[("jar","nc")], emb[("skii","nc")]), "cross"),
-    ("jar VC × skii VC\n(cross-task)",     cross(emb[("jar","vc")], emb[("skii","vc")]), "cross"),
+    ("jar abstract × jar abstract\n(within-task)",     within(emb[("jar","nc")]), "within"),
+    ("jar concrete × jar concrete\n(within-task)",     within(emb[("jar","vc")]), "within"),
+    ("skii abstract × skii abstract\n(within-task)",   within(emb[("skii","nc")]), "within"),
+    ("skii concrete × skii concrete\n(within-task)",   within(emb[("skii","vc")]), "within"),
+    ("jar abstract × skii abstract\n(cross-task)",     cross(emb[("jar","nc")], emb[("skii","nc")]), "cross"),
+    ("jar concrete × skii concrete\n(cross-task)",     cross(emb[("jar","vc")], emb[("skii","vc")]), "cross"),
 ]
 
 fig, ax = plt.subplots(figsize=(11, 5.5))

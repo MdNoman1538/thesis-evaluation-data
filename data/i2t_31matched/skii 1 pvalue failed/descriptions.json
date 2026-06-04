@@ -1,0 +1,60 @@
+{
+  "source": "skii 1 pvalue failed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:02:24",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_18_nc_S1.png",
+      "description": "A tracked mechanical device rests on an inclined plane, using adjustable struts to support a circular white platform in a horizontal position."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_18_nc_S2.png",
+      "description": "A 3D rendering shows a mechanical joint connecting a straight shaft to two wavy, flat structures."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_18_nc_S3.png",
+      "description": "A close-up shows the continuous track base and structural supports of a grey and white 3D-rendered mechanical model."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_18_nc_S4.png",
+      "description": "A 3D rendering displays an abstract cylindrical structure with curved strands emerging from one end and angled channels from the other, positioned near two floating rectangular plates and a lumpy mass."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_18_nc_S5.png",
+      "description": "A central grey knob is surrounded by a radiating pattern of grey rectangular blocks on a white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_18_vc_S1.png",
+      "description": "A grey, sculpted model of a wheeled mechanical structure is positioned on a rough, sloped surface against a white background."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_18_vc_S2.png",
+      "description": "A grey, sculpted mechanical assembly consists of organic, flowing forms on the left that connect to a central gear and chain mechanism, which is gripped by a rigid arm and clamp on the right."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_18_vc_S3.png",
+      "description": "A close-up view displays the textured, metallic components of a bicycle's belt-driven drivetrain, including the crank arms, pedals, sprocket, and belt."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_18_vc_S4.png",
+      "description": "A light grey mechanical assembly composed of springs, cables, a jointed central mechanism with a suspended weight, angled pipes, and gears is displayed against a white background."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_18_vc_S5.png",
+      "description": "A central mechanical assembly featuring gears, pulleys, and springs is surrounded by a radial arrangement of toggle clamps and metal extrusions on a white background."
+    }
+  ]
+}

@@ -54,36 +54,36 @@ WordNet first (primary), then Brysbaert below.
 
 | Folder | Task | Clean | 5-sent | 5-img | Spread | Rule8 | NC Brys | VC Brys | Brys< | NC WN | VC WN | WN< |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| jar 1 2failed bci passed 3.1 | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.215 | 3.946 | ✓ | 6.027 | 6.341 | ✓ |
-| jar 2 bad  2failed bci passed 3.1  | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.226 | 3.876 | ✓ | 6.105 | 6.538 | ✓ |
-| jar 3 2failed bci passed 3.1 | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.064 | 3.876 | ✓ | 6.053 | 6.447 | ✓ |
-| jar 4 passed 3.1 | jar | ✓ | ✓ | ✓ | 0 | ✓ | 2.915 | 4.081 | ✓ | 5.806 | 6.875 | ✓ |
-| jar 5 2failed bci passed 3.1 | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.194 | 4.037 | ✓ | 5.971 | 6.636 | ✓ |
-| jar 6 2failed bci passed 3.1 | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.035 | 4.076 | ✓ | 6.220 | 6.452 | ✓ |
-| jar 7 passed 3.1 pro | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.007 | 4.322 | ✓ | 6.053 | 7.070 | ✓ |
-| jar 8 bad image 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.046 | 4.002 | ✓ | 6.263 | 6.800 | ✓ |
-| jar 9 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 19 | ✗ | 3.201 | 4.218 | ✓ | 6.385 | 6.517 | ✓ |
-| jar 10 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.000 | 3.882 | ✓ | 6.306 | 6.789 | ✓ |
-| jar 11 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.143 | 4.018 | ✓ | 6.051 | 6.571 | ✓ |
-| jar 12 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.102 | 3.930 | ✓ | 5.775 | 6.447 | ✓ |
-| jar 13 passed 3.1 pro | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.175 | 4.090 | ✓ | 6.116 | 6.804 | ✓ |
-| jar 14 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.161 | 3.894 | ✓ | 6.405 | 6.640 | ✓ |
-| jar 15 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.059 | 4.001 | ✓ | 6.387 | 6.588 | ✓ |
-| jar 16 passed 3.1 pro | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.063 | 3.809 | ✓ | 5.439 | 6.690 | ✓ |
-| jar 17 1 failed new 2 passed 3.1 pro | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.056 | 4.029 | ✓ | 5.636 | 6.500 | ✓ |
-| jar 18 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.069 | 3.946 | ✓ | 6.200 | 6.979 | ✓ |
-| jar 18 passed 3.1 pro | jar | ✓ | ✓ | ✓ | 2 | ✓ | 3.104 | 4.107 | ✓ | 5.878 | 7.037 | ✓ |
-| jar 20 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.166 | 4.050 | ✓ | 6.150 | 6.558 | ✓ |
-| jar 21 1failed old fail 2 passed 3.1 pro | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.077 | 3.929 | ✓ | 5.824 | 6.711 | ✓ |
-| jar 22 2failed bci passed 3.1 pro | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.065 | 3.916 | ✓ | 5.854 | 6.489 | ✓ |
-| skii 01 bci only passed 3.1 pro  | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.947 | 3.971 | ✓ | 5.921 | 6.419 | ✓ |
-| skii 2 passed 3.1 | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.943 | 3.882 | ✓ | 5.975 | 6.714 | ✓ |
-| skii 3 passed but new wordnet fail 3.1 | skii | ✗ | ✓ | ✓ | 0 | ✓ | 2.984 | 3.995 | ✓ | 5.897 | 6.872 | ✓ |
-| snow0 passed 3.1 pro | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.852 | 3.863 | ✓ | 5.795 | 6.915 | ✓ |
-| skii 4 passed 3.1 | skii | ✓ | ✓ | ✓ | 0 | ✓ | 3.134 | 3.865 | ✓ | 5.761 | 6.878 | ✓ |
-| skii 5 passed 3.1 pro | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.950 | 4.023 | ✓ | 5.737 | 6.487 | ✓ |
-| skii 6 passed 3.1 pro | skii | ✓ | ✓ | ✓ | 0 | ✓ | 3.124 | 4.072 | ✓ | 5.973 | 6.711 | ✓ |
-| skii 7 2 passed old woprdnet fail 3.1 pro | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.998 | 3.951 | ✓ | 5.975 | 6.571 | ✓ |
-| skii 8 2failed bci passed 3.1 pro | skii | ✗ | ✓ | ✓ | 0 | ✓ | 3.014 | 3.897 | ✓ | 5.917 | 6.632 | ✓ |
+| jar 1 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.215 | 3.946 | ✓ | 6.027 | 6.341 | ✓ |
+| jar 2 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.226 | 3.876 | ✓ | 6.105 | 6.538 | ✓ |
+| jar 3 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.064 | 3.876 | ✓ | 6.053 | 6.447 | ✓ |
+| jar 4 passed | jar | ✓ | ✓ | ✓ | 0 | ✓ | 2.915 | 4.081 | ✓ | 5.806 | 6.875 | ✓ |
+| jar 5 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.194 | 4.037 | ✓ | 5.971 | 6.636 | ✓ |
+| jar 6 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.035 | 4.076 | ✓ | 6.220 | 6.452 | ✓ |
+| jar 7 passed | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.007 | 4.322 | ✓ | 6.053 | 7.070 | ✓ |
+| jar 8 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.046 | 4.002 | ✓ | 6.263 | 6.800 | ✓ |
+| jar 9 pvalue failed | jar | ✗ | ✓ | ✓ | 19 | ✗ | 3.201 | 4.218 | ✓ | 6.385 | 6.517 | ✓ |
+| jar 10 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.000 | 3.882 | ✓ | 6.306 | 6.789 | ✓ |
+| jar 11 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.143 | 4.018 | ✓ | 6.051 | 6.571 | ✓ |
+| jar 12 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.102 | 3.930 | ✓ | 5.775 | 6.447 | ✓ |
+| jar 13 passed | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.175 | 4.090 | ✓ | 6.116 | 6.804 | ✓ |
+| jar 14 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.161 | 3.894 | ✓ | 6.405 | 6.640 | ✓ |
+| jar 15 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.059 | 4.001 | ✓ | 6.387 | 6.588 | ✓ |
+| jar 16 passed | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.063 | 3.809 | ✓ | 5.439 | 6.690 | ✓ |
+| jar 17 passed | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.056 | 4.029 | ✓ | 5.636 | 6.500 | ✓ |
+| jar 18 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.069 | 3.946 | ✓ | 6.200 | 6.979 | ✓ |
+| jar 22 passed | jar | ✓ | ✓ | ✓ | 2 | ✓ | 3.104 | 4.107 | ✓ | 5.878 | 7.037 | ✓ |
+| jar 20 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.166 | 4.050 | ✓ | 6.150 | 6.558 | ✓ |
+| jar 21 pvalue failed | jar | ✓ | ✓ | ✓ | 0 | ✓ | 3.077 | 3.929 | ✓ | 5.824 | 6.711 | ✓ |
+| jar 19 pvalue failed | jar | ✗ | ✓ | ✓ | 0 | ✓ | 3.065 | 3.916 | ✓ | 5.854 | 6.489 | ✓ |
+| skii 1 pvalue failed | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.947 | 3.971 | ✓ | 5.921 | 6.419 | ✓ |
+| skii 2 passed | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.943 | 3.882 | ✓ | 5.975 | 6.714 | ✓ |
+| skii 3 passed | skii | ✗ | ✓ | ✓ | 0 | ✓ | 2.984 | 3.995 | ✓ | 5.897 | 6.872 | ✓ |
+| skii 9 passed | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.852 | 3.863 | ✓ | 5.795 | 6.915 | ✓ |
+| skii 4 passed | skii | ✓ | ✓ | ✓ | 0 | ✓ | 3.134 | 3.865 | ✓ | 5.761 | 6.878 | ✓ |
+| skii 5 passed | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.950 | 4.023 | ✓ | 5.737 | 6.487 | ✓ |
+| skii 6 passed | skii | ✓ | ✓ | ✓ | 0 | ✓ | 3.124 | 4.072 | ✓ | 5.973 | 6.711 | ✓ |
+| skii 7 pvalue failed | skii | ✓ | ✓ | ✓ | 0 | ✓ | 2.998 | 3.951 | ✓ | 5.975 | 6.571 | ✓ |
+| skii 8 pvalue failed | skii | ✗ | ✓ | ✓ | 0 | ✓ | 3.014 | 3.897 | ✓ | 5.917 | 6.632 | ✓ |
 | Skii 9 new wordnetfailed 2 passed 3.1 pro | skii | ✗ | ✓ | ✓ | 0 | ✓ | 3.066 | 3.917 | ✓ | 6.103 | 6.750 | ✓ |
 | skii 10 1 old wordnetfailed 2 passed 3.1 pro | skii | ✗ | ✓ | ✓ | 0 | ✓ | 3.161 | 3.960 | ✓ | 5.791 | 6.324 | ✓ |

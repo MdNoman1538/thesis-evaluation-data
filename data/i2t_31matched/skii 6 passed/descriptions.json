@@ -1,0 +1,60 @@
+{
+  "source": "skii 6 passed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T15:11:11",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_23_nc_S1.png",
+      "description": "A grey mechanical device features a glowing, dome-shaped light enclosed in a faceted housing that is connected by articulated struts to a cluster of rectangular blocks."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_23_nc_S2.png",
+      "description": "A collection of light grey, interconnected geometric shapes, including a joint with a protruding peg, rests on a white surface."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_23_nc_S3.png",
+      "description": "A light grey, faceted structural component features a central block connecting an angled arm, a horizontal rod, and a flat base."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_23_nc_S4.png",
+      "description": "A light grey mechanical assembly featuring horizontal arms connected to a hinged stack of circular discs is supported by a small wedge resting on a rectangular base."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_23_nc_S5.png",
+      "description": "Grey and white mechanical building components are arranged in a symmetrical pattern radiating outward from a central universal joint on a white background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "today_skiing_and_snowboarding_are_widely_23_vc_S1.png",
+      "description": "A grey, 3D-rendered mechanical assembly features a glowing white cylindrical core, a circular base with textured platforms, and an articulated arm ending in two textured pads."
+    },
+    {
+      "slot": "S2",
+      "image": "today_skiing_and_snowboarding_are_widely_23_vc_S2.png",
+      "description": "A mechanical linkage system inside a cylindrical housing connects a curved arm to a geared, treaded wheel."
+    },
+    {
+      "slot": "S3",
+      "image": "today_skiing_and_snowboarding_are_widely_23_vc_S3.png",
+      "description": "A close-up shows a grey mechanical assembly featuring a ribbed roller, a caliper mechanism, structural arms, and a spiked base plate."
+    },
+    {
+      "slot": "S4",
+      "image": "today_skiing_and_snowboarding_are_widely_23_vc_S4.png",
+      "description": "A mechanical assembly features a geared rotary unit connected via a universal joint to a plate from which multiple cables with turnbuckles extend."
+    },
+    {
+      "slot": "S5",
+      "image": "today_skiing_and_snowboarding_are_widely_23_vc_S5.png",
+      "description": "A light grey 3D rendering displays a central vehicle suspension assembly surrounded by a symmetrical arrangement of pipes and flanged fittings."
+    }
+  ]
+}

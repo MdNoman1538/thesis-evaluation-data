@@ -1,0 +1,60 @@
+{
+  "source": "jar 6 pvalue failed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:55:46",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_5_nc_S1.png",
+      "description": "Two mechanical hands hold a wedge-shaped object, guiding it through a ring toward a circular opening containing various geometric shapes."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_5_nc_S2.png",
+      "description": "A four-panel sequence displays a 3D-rendered mechanical linkage progressively engaging a rectangular block, culminating in a final frame where the block is replaced by a dark recess."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_5_nc_S3.png",
+      "description": "A light grey, untextured 3D model of an articulated mechanical component with a polygonal base and a hinged arm is displayed against a white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_5_nc_S4.png",
+      "description": "Several smooth, faceted, light-grey geometric objects, including a rod, a block, and wedge-like shapes, are arranged in close contact on a curved base."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_5_nc_S5.png",
+      "description": "A top-down view shows a stylized white model of an open-top car surrounded by a radiating arrangement of grey geometric shapes."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_5_vc_S1.png",
+      "description": "A tool with grey handles is inserted into the opening of a grey, riveted structure containing small, spherical objects."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_5_vc_S2.png",
+      "description": "A light gray mechanical assembly features a gripping mechanism holding a cylindrical section, with a linked flanged cylinder positioned directly above a square receptacle."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_5_vc_S3.png",
+      "description": "A light gray, articulated mechanical arm is mounted on a base with suction cups."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_5_vc_S4.png",
+      "description": "Two grey mechanical assemblies, one featuring an articulated arm and a flat plate and the other a corrugated tube with a clamping lever, are positioned facing each other with a slight gap between them."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_5_vc_S5.png",
+      "description": "An assembled mechanical component is positioned in the center of a white surface, surrounded by an arrangement of its disassembled metal and plastic parts."
+    }
+  ]
+}

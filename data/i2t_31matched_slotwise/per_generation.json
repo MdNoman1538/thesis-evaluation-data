@@ -1,6 +1,6 @@
 [
   {
-    "source": "jar 1 2failed bci passed 3.1",
+    "source": "jar 1 pvalue failed",
     "display_run": "jar 1",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "source": "jar 10 2failed bci passed 3.1 pro",
+    "source": "jar 10 pvalue failed",
     "display_run": "jar 2",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "source": "jar 11 2failed bci passed 3.1 pro",
+    "source": "jar 11 pvalue failed",
     "display_run": "jar 3",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "source": "jar 12 2failed bci passed 3.1 pro",
+    "source": "jar 12 pvalue failed",
     "display_run": "jar 4",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "source": "jar 13 passed 3.1 pro",
+    "source": "jar 13 passed",
     "display_run": "jar 5",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "source": "jar 14 2failed bci passed 3.1 pro",
+    "source": "jar 14 pvalue failed",
     "display_run": "jar 6",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "source": "jar 15 2failed bci passed 3.1 pro",
+    "source": "jar 15 pvalue failed",
     "display_run": "jar 7",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -392,7 +392,7 @@
     ]
   },
   {
-    "source": "jar 16 passed 3.1 pro",
+    "source": "jar 16 passed",
     "display_run": "jar 8",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -448,7 +448,7 @@
     ]
   },
   {
-    "source": "jar 17 1 failed new 2 passed 3.1 pro",
+    "source": "jar 17 passed",
     "display_run": "jar 9",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "source": "jar 18 2failed bci passed 3.1 pro",
+    "source": "jar 18 pvalue failed",
     "display_run": "jar 10",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -560,7 +560,7 @@
     ]
   },
   {
-    "source": "jar 18 passed 3.1 pro",
+    "source": "jar 22 passed",
     "display_run": "jar 11",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "source": "jar 2 bad  2failed bci passed 3.1 ",
+    "source": "jar 2 pvalue failed",
     "display_run": "jar 12",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -672,7 +672,7 @@
     ]
   },
   {
-    "source": "jar 20 2failed bci passed 3.1 pro",
+    "source": "jar 20 pvalue failed",
     "display_run": "jar 13",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -728,7 +728,7 @@
     ]
   },
   {
-    "source": "jar 21 1failed old fail 2 passed 3.1 pro",
+    "source": "jar 21 pvalue failed",
     "display_run": "jar 14",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -784,7 +784,7 @@
     ]
   },
   {
-    "source": "jar 22 2failed bci passed 3.1 pro",
+    "source": "jar 19 pvalue failed",
     "display_run": "jar 15",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -840,7 +840,7 @@
     ]
   },
   {
-    "source": "jar 3 2failed bci passed 3.1",
+    "source": "jar 3 pvalue failed",
     "display_run": "jar 16",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "source": "jar 4 passed 3.1",
+    "source": "jar 4 passed",
     "display_run": "jar 17",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -952,7 +952,7 @@
     ]
   },
   {
-    "source": "jar 5 2failed bci passed 3.1",
+    "source": "jar 5 pvalue failed",
     "display_run": "jar 18",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "source": "jar 6 2failed bci passed 3.1",
+    "source": "jar 6 pvalue failed",
     "display_run": "jar 19",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -1064,7 +1064,7 @@
     ]
   },
   {
-    "source": "jar 7 passed 3.1 pro",
+    "source": "jar 7 passed",
     "display_run": "jar 20",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -1120,7 +1120,7 @@
     ]
   },
   {
-    "source": "jar 8 bad image 2failed bci passed 3.1 pro",
+    "source": "jar 8 pvalue failed",
     "display_run": "jar 21",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "source": "jar 9 2failed bci passed 3.1 pro",
+    "source": "jar 9 pvalue failed",
     "display_run": "jar 22",
     "task": "jar",
     "n_slots_scored_al": 5,
@@ -1232,7 +1232,7 @@
     ]
   },
   {
-    "source": "skii 01 bci only passed 3.1 pro ",
+    "source": "skii 1 pvalue failed",
     "display_run": "skii 1",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1288,7 +1288,7 @@
     ]
   },
   {
-    "source": "skii 2 passed 3.1",
+    "source": "skii 2 passed",
     "display_run": "skii 2",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1344,7 +1344,7 @@
     ]
   },
   {
-    "source": "skii 3 passed but new wordnet fail 3.1",
+    "source": "skii 3 passed",
     "display_run": "skii 3",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1400,7 +1400,7 @@
     ]
   },
   {
-    "source": "skii 4 passed 3.1",
+    "source": "skii 4 passed",
     "display_run": "skii 4",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1456,7 +1456,7 @@
     ]
   },
   {
-    "source": "skii 5 passed 3.1 pro",
+    "source": "skii 5 passed",
     "display_run": "skii 5",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1512,7 +1512,7 @@
     ]
   },
   {
-    "source": "skii 6 passed 3.1 pro",
+    "source": "skii 6 passed",
     "display_run": "skii 6",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1568,7 +1568,7 @@
     ]
   },
   {
-    "source": "skii 7 2 passed old woprdnet fail 3.1 pro",
+    "source": "skii 7 pvalue failed",
     "display_run": "skii 7",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1624,7 +1624,7 @@
     ]
   },
   {
-    "source": "skii 8 2failed bci passed 3.1 pro",
+    "source": "skii 8 pvalue failed",
     "display_run": "skii 8",
     "task": "skii",
     "n_slots_scored_al": 5,
@@ -1680,7 +1680,7 @@
     ]
   },
   {
-    "source": "snow0 passed 3.1 pro",
+    "source": "skii 9 passed",
     "display_run": "skii 9",
     "task": "skii",
     "n_slots_scored_al": 5,

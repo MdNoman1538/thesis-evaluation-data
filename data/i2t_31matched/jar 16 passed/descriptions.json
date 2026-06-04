@@ -1,0 +1,60 @@
+{
+  "source": "jar 16 passed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:36:13",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_16_nc_S1.png",
+      "description": "A white sphere is held between two curved, grey panels mounted on a horizontal rod that terminates in faceted blocks."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_16_nc_S2.png",
+      "description": "An abstract 3D rendering depicts a mechanical assembly with looped tracks and faceted rollers appearing to dispense a sequence of floating white discs."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_16_nc_S3.png",
+      "description": "A white rubber band is stretched between a small peg and the faceted hub of a white lever handle mounted on a grey rectangular base."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_16_nc_S4.png",
+      "description": "A grey mechanical assembly consisting of a handle, a support block, a nut, and a coiled spring is positioned above a small rectangular tray."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_16_nc_S5.png",
+      "description": "A collection of gray and white geometric shapes is arranged in a symmetrical pattern radiating outward from a central assembled cube on a white surface."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_16_vc_S1.png",
+      "description": "A grey mechanical arm with two pincers is holding a segmented cylindrical object that contains a white sphere."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_16_vc_S2.png",
+      "description": "A grey mechanical model depicts an automated assembly line where gears and a belt drive move cylindrical containers while mechanical arms position caps over them."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_16_vc_S3.png",
+      "description": "A grey mechanical device with four suction cups connected by a frame and a central articulated handle is displayed on a white background."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_16_vc_S4.png",
+      "description": "A grey model of a jointed mechanical arm with a flat end is positioned above a bowl."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_16_vc_S5.png",
+      "description": "Various grey and white geometric components are arranged symmetrically around a central, interlocking silver structure on a white background."
+    }
+  ]
+}

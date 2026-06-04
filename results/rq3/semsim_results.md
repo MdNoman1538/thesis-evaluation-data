@@ -18,7 +18,7 @@ Sessions analysed: **30** across 3 source folders.
 
 ## Per-source breakdown
 
-### jar13  (jar 13 passed 3.1 pro)
+### jar13  (jar 13 passed)
 
 | Comparison | n | mean | SD | min | max |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Sessions analysed: **30** across 3 source folders.
 | i2t-NC vs skii5 source-NC (cross-source) | 10 | 0.162 | 0.023 | 0.141 | 0.202 |
 | i2t-VC vs skii5 source-VC (cross-source) | 10 | 0.197 | 0.020 | 0.160 | 0.226 |
 
-### jar7  (jar 7 passed 3.1 pro)
+### jar7  (jar 7 passed)
 
 | Comparison | n | mean | SD | min | max |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@ Sessions analysed: **30** across 3 source folders.
 | i2t-NC vs skii5 source-NC (cross-source) | 10 | 0.235 | 0.027 | 0.185 | 0.268 |
 | i2t-VC vs skii5 source-VC (cross-source) | 10 | 0.280 | 0.020 | 0.233 | 0.307 |
 
-### skii5  (skii 5 passed 3.1 pro)
+### skii5  (skii 5 passed)
 
 | Comparison | n | mean | SD | min | max |
 |---|---|---|---|---|---|

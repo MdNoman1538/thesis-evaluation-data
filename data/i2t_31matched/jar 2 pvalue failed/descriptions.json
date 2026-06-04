@@ -1,0 +1,60 @@
+{
+  "source": "jar 2 pvalue failed",
+  "model_preferred": "gemini-3.1-pro-preview",
+  "model_last_used": "gemini-3.1-pro-preview",
+  "generated_at": "2026-05-30T14:43:02",
+  "nc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_1_nc_S1.png",
+      "description": "A mechanical lever with a scalloped head is positioned directly above a glowing white sphere resting inside a cylindrical container."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_1_nc_S2.png",
+      "description": "A light grey, stylized 3D model of a mechanical component featuring a sloped base and faceted knobs is displayed against a white background."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_1_nc_S3.png",
+      "description": "A faceted grey arm is secured within a hinged rectangular bracket on a smooth grey base."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_1_nc_S4.png",
+      "description": "A static, abstract grey and white geometric structure composed of interlocking smooth shapes features a segmented rod extending to the left and a metallic sphere resting inside a lower rectangular compartment."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_1_nc_S5.png",
+      "description": "A central white faceted polyhedron is surrounded by a symmetrical, radial arrangement of various grey mechanical components on a light background."
+    }
+  ],
+  "vc": [
+    {
+      "slot": "S1",
+      "image": "local_rehabilitation_center_helps_thousa_1_vc_S1.png",
+      "description": "A pair of pliers is gripping the cap of a translucent bottle."
+    },
+    {
+      "slot": "S2",
+      "image": "local_rehabilitation_center_helps_thousa_1_vc_S2.png",
+      "description": "A light grey, articulated mechanical assembly is shown with a threaded component separating from it in mid-air against a white background."
+    },
+    {
+      "slot": "S3",
+      "image": "local_rehabilitation_center_helps_thousa_1_vc_S3.png",
+      "description": "A metal C-clamp is attached to a grey object with a handle."
+    },
+    {
+      "slot": "S4",
+      "image": "local_rehabilitation_center_helps_thousa_1_vc_S4.png",
+      "description": "A grey, sculpted model of a complex mechanical handle featuring dials, finger grips, and a spiraled gear shaft rests on a white background."
+    },
+    {
+      "slot": "S5",
+      "image": "local_rehabilitation_center_helps_thousa_1_vc_S5.png",
+      "description": "A central grey mechanical assembly is surrounded by various gears and parts arranged in a radial pattern on a white surface."
+    }
+  ]
+}

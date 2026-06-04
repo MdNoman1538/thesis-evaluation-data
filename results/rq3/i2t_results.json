@@ -114,7 +114,7 @@
     }
   },
   "analysis_b": {
-    "jar 13 passed 3.1 pro": {
+    "jar 13 passed": {
       "n_sessions": 10,
       "source_nc": {
         "brysbaert": 3.1754761904761906,
@@ -170,7 +170,7 @@
       },
       "ordering_nc_lt_vc_pct": 80.0
     },
-    "jar 7 passed 3.1 pro": {
+    "jar 7 passed": {
       "n_sessions": 10,
       "source_nc": {
         "brysbaert": 3.0073684210526315,
@@ -226,7 +226,7 @@
       },
       "ordering_nc_lt_vc_pct": 100.0
     },
-    "skii 5 passed 3.1 pro": {
+    "skii 5 passed": {
       "n_sessions": 10,
       "source_nc": {
         "brysbaert": 2.95,
